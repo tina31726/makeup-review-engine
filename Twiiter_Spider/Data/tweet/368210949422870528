@@ -1,0 +1,1 @@
+{"usernameTweet": "cgcardona", "ID": "368210949422870528", "text": "`$('#foo ').find('#bar ');` > $('#foo ').children('#bar ');`\n\n#jQuery", "url": "/cgcardona/status/368210949422870528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2013-08-15 22:21:46", "is_reply": false, "is_retweet": false, "user_id": "149370826"}

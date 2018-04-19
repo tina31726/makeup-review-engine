@@ -1,0 +1,1 @@
+{"usernameTweet": "pietvanzoen", "ID": "620725365829447684", "text": "Dang. Figured it out. Had to do with it parsing `/ foo /#bar ` as equal to `/ foo /`.", "url": "/pietvanzoen/status/620725365829447684", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2015-07-13 17:43:54", "is_reply": false, "is_retweet": false, "user_id": "247938477"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "dalehay", "ID": "541743716319641601", "text": "Y U NO WORK!?\n\n$(\"#foo \").click(function() {\n $(\"#bar \").hide();\n});\n\n#jQuery", "url": "/dalehay/status/541743716319641601", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2014-12-07 17:59:01", "is_reply": false, "is_retweet": false, "user_id": "10440"}

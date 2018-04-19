@@ -1,0 +1,1 @@
+{"usernameTweet": "cqwww", "ID": "608008072796053504", "text": "@ tqbf  grep -A100 '#FOO ' debug.log | grep '#BAR '#replace 100 with appropriate number.", "url": "/cqwww/status/608008072796053504", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2015-06-08 15:29:55", "is_reply": true, "is_retweet": false, "user_id": "130932883"}

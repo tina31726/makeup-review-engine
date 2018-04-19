@@ -1,0 +1,1 @@
+{"usernameTweet": "ghoullier", "ID": "872482978080882688", "text": "is there a way to define private methods?\n\nclass  Foo  {\n  #bar () {\n  }\n}", "url": "/ghoullier/status/872482978080882688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2017-06-07 10:58:46", "is_reply": true, "is_retweet": false, "user_id": "51064962"}

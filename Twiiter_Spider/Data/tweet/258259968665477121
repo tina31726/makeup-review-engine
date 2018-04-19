@@ -1,0 +1,1 @@
+{"usernameTweet": "ColinHarrington", "ID": "258259968665477121", "text": "SpEL configuration\nbeans {\n    bar(Bar)\n     foo ( Foo ) { name = '#bar .name' }\n}", "url": "/ColinHarrington/status/258259968665477121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2012-10-16 12:35:49", "is_reply": false, "is_retweet": false, "user_id": "12944082"}

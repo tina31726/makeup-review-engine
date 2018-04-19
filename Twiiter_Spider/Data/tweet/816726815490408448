@@ -1,0 +1,1 @@
+{"usernameTweet": "DavidKPiano", "ID": "816726815490408448", "text": "I use this technique (also yuck): .myClass:not(#foo ):not(#bar )", "url": "/DavidKPiano/status/816726815490408448", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2017-01-04 13:23:41", "is_reply": true, "is_retweet": false, "user_id": "992126114"}

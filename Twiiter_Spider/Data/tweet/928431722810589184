@@ -1,0 +1,1 @@
+{"usernameTweet": "DenMcH", "ID": "928431722810589184", "text": "So where :matches(#foo , #bar ) would have specificity of 1,0,0, :mystery-thing(#foo , #bar ) would still be 0,0,0?", "url": "/DenMcH/status/928431722810589184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2017-11-08 19:19:06", "is_reply": true, "is_retweet": false, "user_id": "950174576"}
