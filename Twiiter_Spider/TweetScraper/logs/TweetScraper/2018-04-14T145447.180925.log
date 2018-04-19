@@ -1,0 +1,683 @@
+2018-04-14 14:54:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:54:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:54:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=)
+2018-04-14 14:54:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040>
+None
+2018-04-14 14:54:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040>
+None
+2018-04-14 14:54:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040>
+None
+2018-04-14 14:54:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040>
+None
+2018-04-14 14:54:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040>
+None
+2018-04-14 14:54:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040>
+None
+2018-04-14 14:54:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-969289199533903872-983953380757463040)
+2018-04-14 14:54:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040>
+None
+2018-04-14 14:54:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040>
+None
+2018-04-14 14:54:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040>
+None
+2018-04-14 14:54:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040>
+None
+2018-04-14 14:54:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040>
+None
+2018-04-14 14:54:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040>
+None
+2018-04-14 14:54:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040>
+None
+2018-04-14 14:54:52 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-958336961462358018-983953380757463040)
+2018-04-14 14:54:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040>
+None
+2018-04-14 14:54:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-929140242682204160-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-939902560965726208-983953380757463040)
+2018-04-14 14:54:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-929140242682204160-983953380757463040>
+None
+2018-04-14 14:54:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-929140242682204160-983953380757463040>
+None
+2018-04-14 14:54:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-929140242682204160-983953380757463040>
+None
+2018-04-14 14:54:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-922392547250593792-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-929140242682204160-983953380757463040)
+2018-04-14 14:54:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-922392547250593792-983953380757463040>
+None
+2018-04-14 14:54:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-903981494879825920-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-922392547250593792-983953380757463040)
+2018-04-14 14:54:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-903981494879825920-983953380757463040>
+None
+2018-04-14 14:54:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-903981494879825920-983953380757463040>
+None
+2018-04-14 14:54:57 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-889594194469281792-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-903981494879825920-983953380757463040)
+2018-04-14 14:54:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-889594194469281792-983953380757463040>
+None
+2018-04-14 14:54:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-889594194469281792-983953380757463040>
+None
+2018-04-14 14:54:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-889594194469281792-983953380757463040>
+None
+2018-04-14 14:54:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-889594194469281792-983953380757463040>
+None
+2018-04-14 14:54:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-889594194469281792-983953380757463040>
+None
+2018-04-14 14:54:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-883472653687959552-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-889594194469281792-983953380757463040)
+2018-04-14 14:54:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-883472653687959552-983953380757463040>
+None
+2018-04-14 14:54:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-883472653687959552-983953380757463040>
+None
+2018-04-14 14:54:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-883472653687959552-983953380757463040>
+None
+2018-04-14 14:54:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-883472653687959552-983953380757463040>
+None
+2018-04-14 14:54:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-883472653687959552-983953380757463040)
+2018-04-14 14:54:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040>
+None
+2018-04-14 14:55:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-873081256078004225-983953380757463040)
+2018-04-14 14:55:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040>
+None
+2018-04-14 14:55:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040>
+None
+2018-04-14 14:55:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040>
+None
+2018-04-14 14:55:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040>
+None
+2018-04-14 14:55:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040>
+None
+2018-04-14 14:55:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040>
+None
+2018-04-14 14:55:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040>
+None
+2018-04-14 14:55:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-864363436980936706-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-867693231798185984-983953380757463040)
+2018-04-14 14:55:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-864363436980936706-983953380757463040>
+None
+2018-04-14 14:55:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-864363436980936706-983953380757463040>
+None
+2018-04-14 14:55:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-856943803021897730-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-864363436980936706-983953380757463040)
+2018-04-14 14:55:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-856943803021897730-983953380757463040>
+None
+2018-04-14 14:55:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-856943803021897730-983953380757463040>
+None
+2018-04-14 14:55:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-856943803021897730-983953380757463040>
+None
+2018-04-14 14:55:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-856943803021897730-983953380757463040>
+None
+2018-04-14 14:55:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-856943803021897730-983953380757463040>
+None
+2018-04-14 14:55:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-843542150285479936-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-856943803021897730-983953380757463040)
+2018-04-14 14:55:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-843542150285479936-983953380757463040>
+None
+2018-04-14 14:55:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-843542150285479936-983953380757463040>
+None
+2018-04-14 14:55:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-843542150285479936-983953380757463040>
+None
+2018-04-14 14:55:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-843542150285479936-983953380757463040>
+None
+2018-04-14 14:55:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-843542150285479936-983953380757463040>
+None
+2018-04-14 14:55:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-843542150285479936-983953380757463040)
+2018-04-14 14:55:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040>
+None
+2018-04-14 14:55:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040>
+None
+2018-04-14 14:55:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040>
+None
+2018-04-14 14:55:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040>
+None
+2018-04-14 14:55:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040>
+None
+2018-04-14 14:55:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040>
+None
+2018-04-14 14:55:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-829078547469840390-983953380757463040)
+2018-04-14 14:55:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040>
+None
+2018-04-14 14:55:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040>
+None
+2018-04-14 14:55:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040>
+None
+2018-04-14 14:55:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040>
+None
+2018-04-14 14:55:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040>
+None
+2018-04-14 14:55:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040>
+None
+2018-04-14 14:55:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-814610484712374274-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-821701775661166592-983953380757463040)
+2018-04-14 14:55:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-814610484712374274-983953380757463040>
+None
+2018-04-14 14:55:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-814610484712374274-983953380757463040>
+None
+2018-04-14 14:55:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-814610484712374274-983953380757463040)
+2018-04-14 14:55:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-808783413868163072-983953380757463040)
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-803527432775094275-983953380757463040)
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040>
+None
+2018-04-14 14:55:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-794012059037859841-983953380757463040)
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040>
+None
+2018-04-14 14:55:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793340405261664256-983953380757463040)
+2018-04-14 14:55:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040>
+None
+2018-04-14 14:55:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-793120594388717568-983953380757463040)
+2018-04-14 14:55:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040>
+None
+2018-04-14 14:55:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040>
+None
+2018-04-14 14:55:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040>
+None
+2018-04-14 14:55:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040>
+None
+2018-04-14 14:55:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040>
+None
+2018-04-14 14:55:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040>
+None
+2018-04-14 14:55:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040>
+None
+2018-04-14 14:55:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-785486115096633344-983953380757463040)
+2018-04-14 14:55:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040>
+None
+2018-04-14 14:55:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040>
+None
+2018-04-14 14:55:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040>
+None
+2018-04-14 14:55:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040>
+None
+2018-04-14 14:55:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040>
+None
+2018-04-14 14:55:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040>
+None
+2018-04-14 14:55:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040>
+None
+2018-04-14 14:55:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-778729237519798272-983953380757463040)
+2018-04-14 14:55:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040>
+None
+2018-04-14 14:55:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-772990684764704768-983953380757463040)
+2018-04-14 14:55:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040>
+None
+2018-04-14 14:55:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040>
+None
+2018-04-14 14:55:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040>
+None
+2018-04-14 14:55:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040>
+None
+2018-04-14 14:55:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040>
+None
+2018-04-14 14:55:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040>
+None
+2018-04-14 14:55:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040>
+None
+2018-04-14 14:55:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-769858457537224704-983953380757463040)
+2018-04-14 14:55:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040>
+None
+2018-04-14 14:55:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040>
+None
+2018-04-14 14:55:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040>
+None
+2018-04-14 14:55:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040>
+None
+2018-04-14 14:55:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040>
+None
+2018-04-14 14:55:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040>
+None
+2018-04-14 14:55:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040>
+None
+2018-04-14 14:55:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-763244431633887233-983953380757463040)
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040>
+None
+2018-04-14 14:55:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-756564126172868613-983953380757463040)
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040>
+None
+2018-04-14 14:55:27 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-750936905588600836-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-751755389075656704-983953380757463040)
+2018-04-14 14:55:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-750936905588600836-983953380757463040>
+None
+2018-04-14 14:55:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-750936905588600836-983953380757463040>
+None
+2018-04-14 14:55:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-750936905588600836-983953380757463040>
+None
+2018-04-14 14:55:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-750936905588600836-983953380757463040>
+None
+2018-04-14 14:55:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-750936905588600836-983953380757463040>
+None
+2018-04-14 14:55:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-750936905588600836-983953380757463040)
+2018-04-14 14:55:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040>
+None
+2018-04-14 14:55:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-749548820950818816-983953380757463040)
+2018-04-14 14:55:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040>
+None
+2018-04-14 14:55:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-744803169587257344-983953380757463040)
+2018-04-14 14:55:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040>
+None
+2018-04-14 14:55:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-742513508215074820-983953380757463040)
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040>
+None
+2018-04-14 14:55:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-737682121179959297-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-740369804096360448-983953380757463040)
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-737682121179959297-983953380757463040>
+None
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-737682121179959297-983953380757463040>
+None
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-737682121179959297-983953380757463040>
+None
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-737682121179959297-983953380757463040>
+None
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-737682121179959297-983953380757463040>
+None
+2018-04-14 14:55:34 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-737682121179959297-983953380757463040)
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040>
+None
+2018-04-14 14:55:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-735187460842364932-983953380757463040)
+2018-04-14 14:55:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Kat%20Von%20D%20Metal%20Crush%20Eyeshadow&src=typed&max_position=TWEET-724351294442450944-983953380757463040>
+None
+2018-04-14 14:55:37 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 33868,
+ 'downloader/request_count': 37,
+ 'downloader/request_method_count/GET': 37,
+ 'downloader/response_bytes': 288391,
+ 'downloader/response_count': 37,
+ 'downloader/response_status_count/200': 37,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 55, 37, 606490),
+ 'item_scraped_count': 311,
+ 'log_count/DEBUG': 659,
+ 'log_count/ERROR': 311,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 37,
+ 'response_received_count': 37,
+ 'scheduler/dequeued': 37,
+ 'scheduler/dequeued/memory': 37,
+ 'scheduler/enqueued': 38,
+ 'scheduler/enqueued/memory': 38,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 54, 47, 560008)}
+2018-04-14 14:55:37 [scrapy] INFO: Spider closed (closespider_itemcount)

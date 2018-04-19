@@ -1,0 +1,104 @@
+2018-04-14 15:10:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:10:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=)
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265>
+None
+2018-04-14 15:10:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-826776938249326592-959110387953291265> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-878340873171468288-959110387953291265)
+2018-04-14 15:10:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-826776938249326592-959110387953291265>
+None
+2018-04-14 15:10:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-826776938249326592-959110387953291265>
+None
+2018-04-14 15:10:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-826776938249326592-959110387953291265>
+None
+2018-04-14 15:10:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-821027302662402048-959110387953291265> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-826776938249326592-959110387953291265)
+2018-04-14 15:10:23 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Gloss%20Smudger%22&src=typed&max_position=TWEET-821027302662402048-959110387953291265> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 15:10:23 [scrapy] INFO: Closing spider (finished)
+2018-04-14 15:10:23 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2948,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 30178,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 10, 23, 244316),
+ 'item_scraped_count': 37,
+ 'log_count/DEBUG': 79,
+ 'log_count/ERROR': 37,
+ 'log_count/INFO': 6,
+ 'memusage/max': 44191744,
+ 'memusage/startup': 44191744,
+ 'request_depth_max': 4,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 10, 18, 640300)}
+2018-04-14 15:10:23 [scrapy] INFO: Spider closed (finished)

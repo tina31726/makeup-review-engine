@@ -1,0 +1,656 @@
+2018-04-14 15:12:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:12:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=)
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120>
+None
+2018-04-14 15:12:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-953030019625955329-984523826246533120)
+2018-04-14 15:12:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120>
+None
+2018-04-14 15:12:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-937892557979254786-984523826246533120)
+2018-04-14 15:12:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:12:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-905296534727745536-984523826246533120)
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120>
+None
+2018-04-14 15:13:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-858588508784545792-984523826246533120)
+2018-04-14 15:13:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120>
+None
+2018-04-14 15:13:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-803558775516905472-984523826246533120)
+2018-04-14 15:13:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120>
+None
+2018-04-14 15:13:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-724302622837104640-984523826246533120)
+2018-04-14 15:13:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-659971856011649025-984523826246533120)
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120>
+None
+2018-04-14 15:13:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-618771871115407360-984523826246533120)
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120>
+None
+2018-04-14 15:13:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-539547795598745600-984523826246533120)
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-415602795589681154-984523826246533120)
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120>
+None
+2018-04-14 15:13:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-332854599394414592-984523826246533120)
+2018-04-14 15:13:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120>
+None
+2018-04-14 15:13:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-263873465977823233-984523826246533120)
+2018-04-14 15:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-181466892488282112-984523826246533120)
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-102791790498824192-984523826246533120)
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Private%20Shadow%22&src=typed&max_position=TWEET-9314775733-984523826246533120>
+None
+2018-04-14 15:13:22 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 13657,
+ 'downloader/request_count': 16,
+ 'downloader/request_method_count/GET': 16,
+ 'downloader/response_bytes': 232812,
+ 'downloader/response_count': 16,
+ 'downloader/response_status_count/200': 16,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 13, 22, 565001),
+ 'item_scraped_count': 308,
+ 'log_count/DEBUG': 633,
+ 'log_count/ERROR': 308,
+ 'log_count/INFO': 6,
+ 'memusage/max': 65413120,
+ 'memusage/startup': 65413120,
+ 'request_depth_max': 16,
+ 'response_received_count': 16,
+ 'scheduler/dequeued': 16,
+ 'scheduler/dequeued/memory': 16,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 12, 52, 581003)}
+2018-04-14 15:13:22 [scrapy] INFO: Spider closed (closespider_itemcount)

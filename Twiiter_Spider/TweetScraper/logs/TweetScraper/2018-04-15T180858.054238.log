@@ -1,0 +1,83 @@
+2018-04-15 18:08:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=> (referer: None)
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=)
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-979790395218436096-984800610368348165)
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None
+2018-04-15 18:09:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Duo%20Eyeshadow%22&src=typed&max_position=TWEET-975194001123889152-984800610368348165>
+None

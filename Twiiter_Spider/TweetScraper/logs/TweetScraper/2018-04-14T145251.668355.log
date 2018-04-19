@@ -1,0 +1,298 @@
+2018-04-14 14:52:52 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=> (referer: None)
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=>
+None
+2018-04-14 14:52:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=)
+2018-04-14 14:52:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545>
+None
+2018-04-14 14:52:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-776676055184609280-903380484004204545)
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-397571656279134209-903380484004204545)
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:52:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:53:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:53:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:53:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:53:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:53:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:53:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-298809809464082433-903380484004204545)
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545>
+None
+2018-04-14 14:53:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-236390380067778561-903380484004204545)
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545>
+None
+2018-04-14 14:53:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-135801467079639041-903380484004204545)
+2018-04-14 14:53:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545>
+None
+2018-04-14 14:53:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-6496875209-903380484004204545> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-54433519727935488-903380484004204545)
+2018-04-14 14:53:05 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Diamond%20Powder&src=typed&max_position=TWEET-6496875209-903380484004204545> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:53:05 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:53:05 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6772,
+ 'downloader/request_count': 8,
+ 'downloader/request_method_count/GET': 8,
+ 'downloader/response_bytes': 85620,
+ 'downloader/response_count': 8,
+ 'downloader/response_status_count/200': 8,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 53, 5, 877847),
+ 'item_scraped_count': 132,
+ 'log_count/DEBUG': 272,
+ 'log_count/ERROR': 132,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 8,
+ 'response_received_count': 8,
+ 'scheduler/dequeued': 8,
+ 'scheduler/dequeued/memory': 8,
+ 'scheduler/enqueued': 8,
+ 'scheduler/enqueued/memory': 8,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 52, 51, 967001)}
+2018-04-14 14:53:05 [scrapy] INFO: Spider closed (finished)

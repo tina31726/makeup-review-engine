@@ -1,6 +1,0 @@
-consumer_key = 'ZQUWep0tLQOMLlAzp3rc5nfLC'
-consumer_secret = 'WcUpLnL307p7mRVw8blFT9B6cfAeXeNyJurdEcgqyjX5PgtKin'
-access_token = '953384758742081541-vRfGVBxWZfOVKmKMf0I142BXEjzFbRP'
-access_token_secret = 'XjkTkXGQQdO2gFv29W5pPEZh6F3IhrrRJRjkZSugJEKGa'
-mongo_db_user = 'chester'
-mongo_db_password = '7962' 

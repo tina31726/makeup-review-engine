@@ -1,0 +1,268 @@
+2018-04-13 23:59:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=> (referer: None)
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-13 23:59:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=)
+2018-04-13 23:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121>
+None
+2018-04-13 23:59:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-962175108772118528-981737443291525121)
+2018-04-13 23:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121>
+None
+2018-04-13 23:59:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-944202432669802496-981737443291525121)
+2018-04-13 23:59:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121>
+None
+2018-04-13 23:59:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-927478813230895104-981737443291525121)
+2018-04-13 23:59:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121>
+None
+2018-04-13 23:59:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121>
+None
+2018-04-13 23:59:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121>
+None
+2018-04-13 23:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121>
+None
+2018-04-13 23:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121>
+None
+2018-04-13 23:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121>
+None
+2018-04-13 23:59:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-915973693787996160-981737443291525121)
+2018-04-13 23:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121>
+None
+2018-04-13 23:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121>
+None
+2018-04-13 23:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121>
+None
+2018-04-13 23:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121>
+None
+2018-04-13 23:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121>
+None
+2018-04-13 23:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121>
+None
+2018-04-13 23:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121>
+None
+2018-04-13 23:59:37 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-904431218263023616-981737443291525121)
+2018-04-13 23:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-892142351421906945-981737443291525121)
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121>
+None
+2018-04-13 23:59:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-886201653464104960-981737443291525121)
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121>
+None
+2018-04-13 23:59:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121> (referer: https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-884548193480060928-981737443291525121)
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=&f=tweets&q=Milk%20Makeup%20Eye%20Pigment&src=typed&max_position=TWEET-877876426724196352-981737443291525121>
+None
+2018-04-13 23:59:44 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 8384,
+ 'downloader/request_count': 10,
+ 'downloader/request_method_count/GET': 10,
+ 'downloader/response_bytes': 107234,
+ 'downloader/response_count': 10,
+ 'downloader/response_status_count/200': 10,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 4, 59, 44, 801367),
+ 'item_scraped_count': 117,
+ 'log_count/DEBUG': 244,
+ 'log_count/ERROR': 117,
+ 'log_count/INFO': 6,
+ 'memusage/max': 58544128,
+ 'memusage/startup': 58544128,
+ 'request_depth_max': 10,
+ 'response_received_count': 10,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'start_time': datetime.datetime(2018, 4, 14, 4, 59, 26, 948373)}
+2018-04-13 23:59:44 [scrapy] INFO: Spider closed (closespider_itemcount)

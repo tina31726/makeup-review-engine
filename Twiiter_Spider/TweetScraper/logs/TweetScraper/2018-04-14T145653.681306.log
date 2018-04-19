@@ -1,0 +1,666 @@
+2018-04-14 14:56:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=> (referer: None)
+2018-04-14 14:56:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=>
+None
+2018-04-14 14:56:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=)
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-981927044564111360-985027903380512768)
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:56:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:57:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:57:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:57:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:57:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:57:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:57:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768>
+None
+2018-04-14 14:57:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-980187660814831616-985027903380512768)
+2018-04-14 14:57:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768>
+None
+2018-04-14 14:57:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-976786470899015680-985027903380512768)
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768>
+None
+2018-04-14 14:57:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-973606361945837570-985027903380512768)
+2018-04-14 14:57:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-971533564620759040-985027903380512768)
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768>
+None
+2018-04-14 14:57:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-969416255647207427-985027903380512768)
+2018-04-14 14:57:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768>
+None
+2018-04-14 14:57:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-968251597171101696-985027903380512768)
+2018-04-14 14:57:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768>
+None
+2018-04-14 14:57:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-966783102436638720-985027903380512768)
+2018-04-14 14:57:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768>
+None
+2018-04-14 14:57:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-965805153474490370-985027903380512768)
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768>
+None
+2018-04-14 14:57:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964623072467865600-985027903380512768)
+2018-04-14 14:57:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768>
+None
+2018-04-14 14:57:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-964033350691409920-985027903380512768)
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768>
+None
+2018-04-14 14:57:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-963503024600592384-985027903380512768)
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768>
+None
+2018-04-14 14:57:27 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-960881363212742658-985027903380512768)
+2018-04-14 14:57:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768>
+None
+2018-04-14 14:57:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-959136180859056130-985027903380512768)
+2018-04-14 14:57:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=COVER%20FX%20Shimmer%20Veil&src=typed&max_position=TWEET-956824881479540738-985027903380512768>
+None
+2018-04-14 14:57:30 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 13820,
+ 'downloader/request_count': 16,
+ 'downloader/request_method_count/GET': 16,
+ 'downloader/response_bytes': 277484,
+ 'downloader/response_count': 16,
+ 'downloader/response_status_count/200': 16,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 57, 30, 708371),
+ 'item_scraped_count': 313,
+ 'log_count/DEBUG': 642,
+ 'log_count/ERROR': 313,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 16,
+ 'response_received_count': 16,
+ 'scheduler/dequeued': 16,
+ 'scheduler/dequeued/memory': 16,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 56, 53, 996783)}
+2018-04-14 14:57:30 [scrapy] INFO: Spider closed (closespider_itemcount)

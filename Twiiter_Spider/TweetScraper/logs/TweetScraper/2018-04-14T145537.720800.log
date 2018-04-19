@@ -1,0 +1,328 @@
+2018-04-14 14:55:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:55:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:55:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-830532000633196549-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=)
+2018-04-14 14:55:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-830532000633196549-931271086573891584>
+None
+2018-04-14 14:55:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-806250050414399489-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-830532000633196549-931271086573891584)
+2018-04-14 14:55:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-806250050414399489-931271086573891584>
+None
+2018-04-14 14:55:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-806250050414399489-931271086573891584>
+None
+2018-04-14 14:55:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-806250050414399489-931271086573891584>
+None
+2018-04-14 14:55:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-806250050414399489-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-806250050414399489-931271086573891584)
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584>
+None
+2018-04-14 14:55:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-765593981484879872-931271086573891584)
+2018-04-14 14:55:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584>
+None
+2018-04-14 14:55:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-746817034831421440-931271086573891584)
+2018-04-14 14:55:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584>
+None
+2018-04-14 14:55:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-504875970059571200-931271086573891584)
+2018-04-14 14:55:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584>
+None
+2018-04-14 14:55:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-454280536584761344-931271086573891584)
+2018-04-14 14:55:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584>
+None
+2018-04-14 14:55:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-446602122717446145-931271086573891584)
+2018-04-14 14:55:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584>
+None
+2018-04-14 14:55:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-444901206461132800-931271086573891584)
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584>
+None
+2018-04-14 14:55:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-422820246785773568-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-443387592810041344-931271086573891584)
+2018-04-14 14:55:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-422820246785773568-931271086573891584>
+None
+2018-04-14 14:55:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-418731642631782400-931271086573891584> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-422820246785773568-931271086573891584)
+2018-04-14 14:55:58 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Givenchy%20Ombre%20Couture%20Cream%20Eyeshadow&src=typed&max_position=TWEET-418731642631782400-931271086573891584> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:55:58 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:55:58 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 10633,
+ 'downloader/request_count': 12,
+ 'downloader/request_method_count/GET': 12,
+ 'downloader/response_bytes': 109351,
+ 'downloader/response_count': 12,
+ 'downloader/response_status_count/200': 12,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 55, 58, 997456),
+ 'item_scraped_count': 145,
+ 'log_count/DEBUG': 303,
+ 'log_count/ERROR': 145,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 12,
+ 'response_received_count': 12,
+ 'scheduler/dequeued': 12,
+ 'scheduler/dequeued/memory': 12,
+ 'scheduler/enqueued': 12,
+ 'scheduler/enqueued/memory': 12,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 55, 37, 967023)}
+2018-04-14 14:55:58 [scrapy] INFO: Spider closed (finished)

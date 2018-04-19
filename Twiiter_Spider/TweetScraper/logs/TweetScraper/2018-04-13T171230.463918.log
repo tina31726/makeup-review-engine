@@ -1,0 +1,25 @@
+2018-04-13 17:12:31 [scrapy] DEBUG: Crawled (400) <GET https://twitter.com/i/search/timeline?l=&f=tweets&q=&src=typed&max_position=> (referer: None)
+2018-04-13 17:12:31 [scrapy] INFO: Ignoring response <400 https://twitter.com/i/search/timeline?l=&f=tweets&q=&src=typed&max_position=>: HTTP status code is not handled or not allowed
+2018-04-13 17:12:31 [scrapy] INFO: Closing spider (finished)
+2018-04-13 17:12:31 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 244,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 1681,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/400': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 13, 22, 12, 31, 610310),
+ 'httperror/response_ignored_count': 1,
+ 'httperror/response_ignored_status_count/400': 1,
+ 'log_count/DEBUG': 1,
+ 'log_count/INFO': 7,
+ 'memusage/max': 45117440,
+ 'memusage/startup': 45117440,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2018, 4, 13, 22, 12, 31, 60912)}
+2018-04-13 17:12:31 [scrapy] INFO: Spider closed (finished)

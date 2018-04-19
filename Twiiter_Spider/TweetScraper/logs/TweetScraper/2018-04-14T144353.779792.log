@@ -1,0 +1,670 @@
+2018-04-14 14:43:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=> (referer: None)
+2018-04-14 14:43:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:43:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:43:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:43:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:43:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:43:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=)
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920>
+None
+2018-04-14 14:43:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-952732138692071425-968289461481041920)
+2018-04-14 14:43:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920>
+None
+2018-04-14 14:43:57 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-930284932273983488-968289461481041920)
+2018-04-14 14:43:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-916661772660170752-968289461481041920)
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:43:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920>
+None
+2018-04-14 14:44:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-915687256245112832-968289461481041920)
+2018-04-14 14:44:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920>
+None
+2018-04-14 14:44:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-905829789558300673-968289461481041920)
+2018-04-14 14:44:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-894543766249291777-968289461481041920)
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920>
+None
+2018-04-14 14:44:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-832523783508357124-968289461481041920)
+2018-04-14 14:44:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920>
+None
+2018-04-14 14:44:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-789331225148203008-968289461481041920)
+2018-04-14 14:44:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-742519976347762692-968289461481041920)
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920>
+None
+2018-04-14 14:44:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-710450468577652736-968289461481041920)
+2018-04-14 14:44:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-697491159359172608-968289461481041920)
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920>
+None
+2018-04-14 14:44:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-695656718454255616-968289461481041920)
+2018-04-14 14:44:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-688089626204966912-968289461481041920)
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-586912564061335553-968289461481041920)
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-569672581730738176-968289461481041920)
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920>
+None
+2018-04-14 14:44:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565513121297874944-968289461481041920)
+2018-04-14 14:44:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920>
+None
+2018-04-14 14:44:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-565260131781607425-968289461481041920)
+2018-04-14 14:44:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-555760395462647809-968289461481041920)
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:25 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 14:44:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Cream%20Color%20For%20Eyes&src=typed&max_position=TWEET-529379131042328576-968289461481041920>
+None
+2018-04-14 14:44:26 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 17912,
+ 'downloader/request_count': 20,
+ 'downloader/request_method_count/GET': 20,
+ 'downloader/response_bytes': 233473,
+ 'downloader/response_count': 20,
+ 'downloader/response_status_count/200': 20,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 44, 26, 567048),
+ 'item_scraped_count': 313,
+ 'log_count/DEBUG': 646,
+ 'log_count/ERROR': 313,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 20,
+ 'response_received_count': 20,
+ 'scheduler/dequeued': 20,
+ 'scheduler/dequeued/memory': 20,
+ 'scheduler/enqueued': 21,
+ 'scheduler/enqueued/memory': 21,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 43, 54, 31750)}
+2018-04-14 14:44:26 [scrapy] INFO: Spider closed (closespider_itemcount)

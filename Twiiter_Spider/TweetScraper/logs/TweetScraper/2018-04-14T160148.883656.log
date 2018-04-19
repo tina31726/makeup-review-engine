@@ -1,0 +1,515 @@
+2018-04-14 16:01:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 16:01:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 16:01:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=)
+2018-04-14 16:01:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429>
+None
+2018-04-14 16:01:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-341477592169340928-932461916039143429)
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429>
+None
+2018-04-14 16:01:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-243594508254720000-932461916039143429)
+2018-04-14 16:01:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:01:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:02:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429>
+None
+2018-04-14 16:02:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-206142861962522624-932461916039143429)
+2018-04-14 16:02:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429>
+None
+2018-04-14 16:02:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-176336282459439105-932461916039143429)
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-145552233713508353-932461916039143429)
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-106079548797501442-932461916039143429)
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-86102940393283584-932461916039143429)
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-55699608034213888-932461916039143429)
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-28731257647013888-932461916039143429)
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429>
+None
+2018-04-14 16:02:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-26427494198-932461916039143429)
+2018-04-14 16:02:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429>
+None
+2018-04-14 16:02:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-1665867435-932461916039143429> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-18619655137-932461916039143429)
+2018-04-14 16:02:15 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Aqua%20Black%20Waterproof%20Cream%20Eye%20Shadow%22&src=typed&max_position=TWEET-1665867435-932461916039143429> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 16:02:15 [scrapy] INFO: Closing spider (finished)
+2018-04-14 16:02:15 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 11735,
+ 'downloader/request_count': 13,
+ 'downloader/request_method_count/GET': 13,
+ 'downloader/response_bytes': 125069,
+ 'downloader/response_count': 13,
+ 'downloader/response_status_count/200': 13,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 21, 2, 15, 935242),
+ 'item_scraped_count': 238,
+ 'log_count/DEBUG': 490,
+ 'log_count/ERROR': 238,
+ 'log_count/INFO': 6,
+ 'memusage/max': 54034432,
+ 'memusage/startup': 54034432,
+ 'request_depth_max': 13,
+ 'response_received_count': 13,
+ 'scheduler/dequeued': 13,
+ 'scheduler/dequeued/memory': 13,
+ 'scheduler/enqueued': 13,
+ 'scheduler/enqueued/memory': 13,
+ 'start_time': datetime.datetime(2018, 4, 14, 21, 1, 49, 464091)}
+2018-04-14 16:02:15 [scrapy] INFO: Spider closed (finished)

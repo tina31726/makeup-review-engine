@@ -1,0 +1,130 @@
+2018-04-14 15:10:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=)
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697>
+None
+2018-04-14 15:10:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-738785172225699840-955981226527133697)
+2018-04-14 15:10:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697>
+None
+2018-04-14 15:10:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-641700412081483776-955981226527133697> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-680899136225460224-955981226527133697)
+2018-04-14 15:10:31 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Exquisite%20Eye%20Liquid%20Shadow%22&src=typed&max_position=TWEET-641700412081483776-955981226527133697> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 15:10:31 [scrapy] INFO: Closing spider (finished)
+2018-04-14 15:10:31 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3032,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 38531,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 10, 31, 660175),
+ 'item_scraped_count': 50,
+ 'log_count/DEBUG': 105,
+ 'log_count/ERROR': 50,
+ 'log_count/INFO': 6,
+ 'memusage/max': 55123968,
+ 'memusage/startup': 55123968,
+ 'request_depth_max': 4,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 10, 26, 151283)}
+2018-04-14 15:10:31 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,202 @@
+2018-04-14 14:53:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:53:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:53:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:53:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:53:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:53:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=)
+2018-04-14 14:53:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728>
+None
+2018-04-14 14:53:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728>
+None
+2018-04-14 14:53:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728>
+None
+2018-04-14 14:53:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728>
+None
+2018-04-14 14:53:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728>
+None
+2018-04-14 14:53:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728>
+None
+2018-04-14 14:53:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-965618407533105158-982016933045321728)
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728>
+None
+2018-04-14 14:53:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-950958223573602304-982016933045321728)
+2018-04-14 14:53:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728>
+None
+2018-04-14 14:53:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728>
+None
+2018-04-14 14:53:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728>
+None
+2018-04-14 14:53:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728>
+None
+2018-04-14 14:53:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728>
+None
+2018-04-14 14:53:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728>
+None
+2018-04-14 14:53:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-930104631845445632-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-949873645182169093-982016933045321728)
+2018-04-14 14:53:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-930104631845445632-982016933045321728>
+None
+2018-04-14 14:53:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-930104631845445632-982016933045321728>
+None
+2018-04-14 14:53:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-930104631845445632-982016933045321728>
+None
+2018-04-14 14:53:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-930104631845445632-982016933045321728>
+None
+2018-04-14 14:53:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-930104631845445632-982016933045321728>
+None
+2018-04-14 14:53:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-930104631845445632-982016933045321728)
+2018-04-14 14:53:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-912708963862491138-982016933045321728)
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728>
+None
+2018-04-14 14:53:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-887711167992524800-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-891763912915337217-982016933045321728)
+2018-04-14 14:53:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122931352461313-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-887711167992524800-982016933045321728)
+2018-04-14 14:53:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122931352461313-982016933045321728>
+None
+2018-04-14 14:53:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122931352461313-982016933045321728>
+None
+2018-04-14 14:53:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122931352461313-982016933045321728>
+None
+2018-04-14 14:53:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122931352461313-982016933045321728>
+None
+2018-04-14 14:53:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122931352461313-982016933045321728>
+None
+2018-04-14 14:53:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122931352461313-982016933045321728)
+2018-04-14 14:53:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728>
+None
+2018-04-14 14:53:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-863786749365014528-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-886122711625453568-982016933045321728)
+2018-04-14 14:53:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-863786749365014528-982016933045321728>
+None
+2018-04-14 14:53:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-860929624590757888-982016933045321728> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-863786749365014528-982016933045321728)
+2018-04-14 14:53:19 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Aqua%20XL%20Color%20Paint%20Shadow&src=typed&max_position=TWEET-860929624590757888-982016933045321728> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:53:19 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:53:19 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 10932,
+ 'downloader/request_count': 12,
+ 'downloader/request_method_count/GET': 12,
+ 'downloader/response_bytes': 80483,
+ 'downloader/response_count': 12,
+ 'downloader/response_status_count/200': 12,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 53, 19, 357474),
+ 'item_scraped_count': 82,
+ 'log_count/DEBUG': 177,
+ 'log_count/ERROR': 82,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 12,
+ 'response_received_count': 12,
+ 'scheduler/dequeued': 12,
+ 'scheduler/dequeued/memory': 12,
+ 'scheduler/enqueued': 12,
+ 'scheduler/enqueued/memory': 12,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 53, 6, 178445)}
+2018-04-14 14:53:19 [scrapy] INFO: Spider closed (finished)

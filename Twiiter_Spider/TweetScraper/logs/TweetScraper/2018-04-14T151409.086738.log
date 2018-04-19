@@ -1,0 +1,675 @@
+2018-04-14 15:14:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=)
+2018-04-14 15:14:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-874773136012718081-972979569941798917)
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917>
+None
+2018-04-14 15:14:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-851185521116061697-972979569941798917)
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917>
+None
+2018-04-14 15:14:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-820072991132241922-972979569941798917)
+2018-04-14 15:14:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917>
+None
+2018-04-14 15:14:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-795369002512039936-972979569941798917)
+2018-04-14 15:14:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-696417585135366144-972979569941798917)
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917>
+None
+2018-04-14 15:14:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-663377981054648320-972979569941798917)
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917>
+None
+2018-04-14 15:14:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-632631637214392320-972979569941798917)
+2018-04-14 15:14:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917>
+None
+2018-04-14 15:14:24 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-631121731919474688-972979569941798917)
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917>
+None
+2018-04-14 15:14:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-629611741467541505-972979569941798917)
+2018-04-14 15:14:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-626214352727732224-972979569941798917)
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917>
+None
+2018-04-14 15:14:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-624704496392892416-972979569941798917)
+2018-04-14 15:14:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-586762993637036032-972979569941798917)
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-543674350386573312-972979569941798917)
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917>
+None
+2018-04-14 15:14:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-498242291405160448-972979569941798917)
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-471358228664954880-972979569941798917)
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Magnificent%20Metals%20Foil%20Finish%20Eye%20Shadow%22&src=typed&max_position=TWEET-444239804243271680-972979569941798917>
+None
+2018-04-14 15:14:39 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 15716,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 201225,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 14, 39, 407129),
+ 'item_scraped_count': 317,
+ 'log_count/DEBUG': 651,
+ 'log_count/ERROR': 317,
+ 'log_count/INFO': 6,
+ 'memusage/max': 65413120,
+ 'memusage/startup': 65413120,
+ 'request_depth_max': 17,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 18,
+ 'scheduler/enqueued/memory': 18,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 14, 9, 340804)}
+2018-04-14 15:14:39 [scrapy] INFO: Spider closed (closespider_itemcount)

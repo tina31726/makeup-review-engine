@@ -1,0 +1,679 @@
+2018-04-14 14:58:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=> (referer: None)
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:58:52 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=)
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825>
+None
+2018-04-14 14:58:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-946118414455668736-984442316592205825)
+2018-04-14 14:58:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825>
+None
+2018-04-14 14:58:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-855448624733581313-984442316592205825)
+2018-04-14 14:58:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-840309335439872005-984442316592205825)
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825>
+None
+2018-04-14 14:58:57 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-813050830861565952-984442316592205825)
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-808123408135372804-984442316592205825)
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:58:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825>
+None
+2018-04-14 14:59:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-788607719158743040-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-806225760218451968-984442316592205825)
+2018-04-14 14:59:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-783723874915610624-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-788607719158743040-984442316592205825)
+2018-04-14 14:59:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-783723874915610624-984442316592205825>
+None
+2018-04-14 14:59:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-783723874915610624-984442316592205825>
+None
+2018-04-14 14:59:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-783723874915610624-984442316592205825>
+None
+2018-04-14 14:59:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-783723874915610624-984442316592205825>
+None
+2018-04-14 14:59:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-783723874915610624-984442316592205825>
+None
+2018-04-14 14:59:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-783723874915610624-984442316592205825)
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825>
+None
+2018-04-14 14:59:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-779716185176670209-984442316592205825)
+2018-04-14 14:59:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-772840234111250432-984442316592205825)
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-766915591609327616-984442316592205825)
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825>
+None
+2018-04-14 14:59:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-734609880942792704-984442316592205825)
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825>
+None
+2018-04-14 14:59:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-689775147532754944-984442316592205825)
+2018-04-14 14:59:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825>
+None
+2018-04-14 14:59:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-644398427594321920-984442316592205825)
+2018-04-14 14:59:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-620284594500317184-984442316592205825)
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825>
+None
+2018-04-14 14:59:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612749774886936576-984442316592205825)
+2018-04-14 14:59:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612708943282966529-984442316592205825)
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612664969935618048-984442316592205825)
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-612371714048172032-984442316592205825)
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:20 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 14:59:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Chubby%20Stick%20Shadow%20Tint%20for%20Eyes&src=typed&max_position=TWEET-611999340526178304-984442316592205825>
+None
+2018-04-14 14:59:21 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 19457,
+ 'downloader/request_count': 21,
+ 'downloader/request_method_count/GET': 21,
+ 'downloader/response_bytes': 230849,
+ 'downloader/response_count': 21,
+ 'downloader/response_status_count/200': 21,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 59, 21, 870978),
+ 'item_scraped_count': 317,
+ 'log_count/DEBUG': 655,
+ 'log_count/ERROR': 317,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 21,
+ 'response_received_count': 21,
+ 'scheduler/dequeued': 21,
+ 'scheduler/dequeued/memory': 21,
+ 'scheduler/enqueued': 22,
+ 'scheduler/enqueued/memory': 22,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 58, 50, 270097)}
+2018-04-14 14:59:21 [scrapy] INFO: Spider closed (closespider_itemcount)

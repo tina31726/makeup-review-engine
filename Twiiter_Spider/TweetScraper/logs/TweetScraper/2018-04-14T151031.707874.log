@@ -1,0 +1,81 @@
+2018-04-14 15:10:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:10:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:34 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=)
+2018-04-14 15:10:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200>
+None
+2018-04-14 15:10:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200>
+None
+2018-04-14 15:10:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200>
+None
+2018-04-14 15:10:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200>
+None
+2018-04-14 15:10:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200>
+None
+2018-04-14 15:10:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200>
+None
+2018-04-14 15:10:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-769632557981925376-970389706306355200> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-773949107702464517-970389706306355200)
+2018-04-14 15:10:35 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Liquid%20Moondust%20Cream%20Eyeshadow%22&src=typed&max_position=TWEET-769632557981925376-970389706306355200> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 15:10:35 [scrapy] INFO: Closing spider (finished)
+2018-04-14 15:10:35 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2122,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 21986,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 10, 35, 200782),
+ 'item_scraped_count': 26,
+ 'log_count/DEBUG': 56,
+ 'log_count/ERROR': 26,
+ 'log_count/INFO': 6,
+ 'memusage/max': 58073088,
+ 'memusage/startup': 58073088,
+ 'request_depth_max': 3,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 10, 31, 986019)}
+2018-04-14 15:10:35 [scrapy] INFO: Spider closed (finished)

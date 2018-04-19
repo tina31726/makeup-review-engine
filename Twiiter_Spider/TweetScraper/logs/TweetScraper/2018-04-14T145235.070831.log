@@ -1,0 +1,360 @@
+2018-04-14 14:52:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=> (referer: None)
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=)
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-696262327306326016-961268125030330368)
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368>
+None
+2018-04-14 14:52:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-692568892925833216-961268125030330368)
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368>
+None
+2018-04-14 14:52:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-690385291950047232-961268125030330368)
+2018-04-14 14:52:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368>
+None
+2018-04-14 14:52:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-525944426070548481-961268125030330368)
+2018-04-14 14:52:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-394972316100489216-961268125030330368)
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-276411729385226240-961268125030330368)
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368>
+None
+2018-04-14 14:52:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-253179033137868803-961268125030330368)
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368>
+None
+2018-04-14 14:52:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-4388989807-961268125030330368> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-132175494048260097-961268125030330368)
+2018-04-14 14:52:51 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MAKE%20UP%20FOR%20EVER%20Glitters&src=typed&max_position=TWEET-4388989807-961268125030330368> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:52:51 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:52:51 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 8490,
+ 'downloader/request_count': 10,
+ 'downloader/request_method_count/GET': 10,
+ 'downloader/response_bytes': 101590,
+ 'downloader/response_count': 10,
+ 'downloader/response_status_count/200': 10,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 52, 51, 583464),
+ 'item_scraped_count': 162,
+ 'log_count/DEBUG': 335,
+ 'log_count/ERROR': 162,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 10,
+ 'response_received_count': 10,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 10,
+ 'scheduler/enqueued/memory': 10,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 52, 35, 300885)}
+2018-04-14 14:52:51 [scrapy] INFO: Spider closed (finished)

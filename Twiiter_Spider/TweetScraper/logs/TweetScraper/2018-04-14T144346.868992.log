@@ -1,0 +1,127 @@
+2018-04-14 14:43:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=> (referer: None)
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:43:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=)
+2018-04-14 14:43:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-936743109567725569-965306953072291840)
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840>
+None
+2018-04-14 14:43:52 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-149993565848731648-965306953072291840> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-935212728075018240-965306953072291840)
+2018-04-14 14:43:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-149993565848731648-965306953072291840>
+None
+2018-04-14 14:43:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-149993565848731648-965306953072291840>
+None
+2018-04-14 14:43:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-111512214510387201-965306953072291840> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-149993565848731648-965306953072291840)
+2018-04-14 14:43:53 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=TOM%20FORD%20Eye%20Gloss&src=typed&max_position=TWEET-111512214510387201-965306953072291840> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:43:53 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:43:53 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3827,
+ 'downloader/request_count': 5,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/response_bytes': 41457,
+ 'downloader/response_count': 5,
+ 'downloader/response_status_count/200': 5,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 43, 53, 741026),
+ 'item_scraped_count': 48,
+ 'log_count/DEBUG': 102,
+ 'log_count/ERROR': 48,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 5,
+ 'response_received_count': 5,
+ 'scheduler/dequeued': 5,
+ 'scheduler/dequeued/memory': 5,
+ 'scheduler/enqueued': 5,
+ 'scheduler/enqueued/memory': 5,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 43, 47, 519616)}
+2018-04-14 14:43:53 [scrapy] INFO: Spider closed (finished)

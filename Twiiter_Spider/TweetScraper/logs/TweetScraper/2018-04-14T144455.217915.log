@@ -1,0 +1,36 @@
+2018-04-14 14:44:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:44:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:44:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:44:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:44:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:44:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=TWEET-796950374917738496-851718662683799552> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=)
+2018-04-14 14:44:56 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=tarte%20Tarteist%E2%84%A2%20Metallic%20Shadow&src=typed&max_position=TWEET-796950374917738496-851718662683799552> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:44:56 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:44:56 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1190,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 7223,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 2,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 44, 56, 610207),
+ 'item_scraped_count': 4,
+ 'log_count/DEBUG': 11,
+ 'log_count/ERROR': 4,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 2,
+ 'response_received_count': 2,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 44, 55, 458247)}
+2018-04-14 14:44:56 [scrapy] INFO: Spider closed (finished)

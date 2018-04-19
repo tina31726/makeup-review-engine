@@ -1,0 +1,651 @@
+2018-04-14 14:43:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:43:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=)
+2018-04-14 14:43:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984922889605361664-985227882858471425)
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984607210373173249-985227882858471425)
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425>
+None
+2018-04-14 14:43:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-984070763102683142-985227882858471425)
+2018-04-14 14:43:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983669498367696897-985227882858471425)
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425>
+None
+2018-04-14 14:43:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-983384674360872960-985227882858471425)
+2018-04-14 14:43:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982848077605240832-985227882858471425)
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-982410476620480512-985227882858471425)
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981976808957579264-985227882858471425)
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425>
+None
+2018-04-14 14:43:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981781294773227520-985227882858471425)
+2018-04-14 14:43:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425>
+None
+2018-04-14 14:43:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981567300137619456-985227882858471425)
+2018-04-14 14:43:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-981292878663241728-985227882858471425)
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425>
+None
+2018-04-14 14:43:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980986865963577344-985227882858471425)
+2018-04-14 14:43:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425>
+None
+2018-04-14 14:43:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980637555203891200-985227882858471425)
+2018-04-14 14:43:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-980166341410762752-985227882858471425)
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425>
+None
+2018-04-14 14:43:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979826931200749568-985227882858471425)
+2018-04-14 14:43:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Urban%20Decay%20Eyeshadow&src=typed&max_position=TWEET-979680134541258752-985227882858471425>
+None
+2018-04-14 14:43:32 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 14660,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 262674,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 43, 32, 682329),
+ 'item_scraped_count': 305,
+ 'log_count/DEBUG': 620,
+ 'log_count/ERROR': 305,
+ 'log_count/INFO': 6,
+ 'memusage/max': 48959488,
+ 'memusage/startup': 48959488,
+ 'request_depth_max': 17,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 18,
+ 'scheduler/enqueued/memory': 18,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 43, 3, 601887)}
+2018-04-14 14:43:32 [scrapy] INFO: Spider closed (closespider_itemcount)

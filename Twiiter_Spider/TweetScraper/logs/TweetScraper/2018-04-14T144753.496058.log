@@ -1,0 +1,450 @@
+2018-04-14 14:47:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=> (referer: None)
+2018-04-14 14:47:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=>
+None
+2018-04-14 14:47:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=)
+2018-04-14 14:47:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-862809038433726464-977606319736836096)
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:47:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-838107932675952644-977606319736836096)
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-791930641474387969-977606319736836096)
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-758006262760148992-977606319736836096)
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-711216607612153857-977606319736836096)
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096>
+None
+2018-04-14 14:48:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-654690972748529669-977606319736836096)
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096>
+None
+2018-04-14 14:48:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-621242394047082496-977606319736836096)
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096>
+None
+2018-04-14 14:48:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-582936419603259392-977606319736836096)
+2018-04-14 14:48:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096>
+None
+2018-04-14 14:48:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-546008928870354944-977606319736836096)
+2018-04-14 14:48:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096>
+None
+2018-04-14 14:48:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096>
+None
+2018-04-14 14:48:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096>
+None
+2018-04-14 14:48:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096>
+None
+2018-04-14 14:48:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096>
+None
+2018-04-14 14:48:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096>
+None
+2018-04-14 14:48:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-452077644637822977-977606319736836096> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-487688545826377728-977606319736836096)
+2018-04-14 14:48:14 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=rms%20beauty%20Eye%20Polish&src=typed&max_position=TWEET-452077644637822977-977606319736836096> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:48:14 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:48:14 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 10196,
+ 'downloader/request_count': 12,
+ 'downloader/request_method_count/GET': 12,
+ 'downloader/response_bytes': 155176,
+ 'downloader/response_count': 12,
+ 'downloader/response_status_count/200': 12,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 48, 14, 175440),
+ 'item_scraped_count': 206,
+ 'log_count/DEBUG': 425,
+ 'log_count/ERROR': 206,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 12,
+ 'response_received_count': 12,
+ 'scheduler/dequeued': 12,
+ 'scheduler/dequeued/memory': 12,
+ 'scheduler/enqueued': 12,
+ 'scheduler/enqueued/memory': 12,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 47, 53, 751204)}
+2018-04-14 14:48:14 [scrapy] INFO: Spider closed (finished)

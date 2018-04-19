@@ -1,0 +1,648 @@
+2018-04-14 15:16:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:16:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=)
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328>
+None
+2018-04-14 15:16:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-981396512730206208-984775235143651328)
+2018-04-14 15:16:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328>
+None
+2018-04-14 15:16:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-976660124105347074-984775235143651328)
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328>
+None
+2018-04-14 15:16:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-971777912721543168-984775235143651328)
+2018-04-14 15:16:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-969784430356201472-984775235143651328)
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-963442646831304709-984775235143651328)
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328>
+None
+2018-04-14 15:16:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-959724326923784197-984775235143651328)
+2018-04-14 15:16:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328>
+None
+2018-04-14 15:16:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-954533949442797568-984775235143651328)
+2018-04-14 15:16:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328>
+None
+2018-04-14 15:16:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-950104299836727296-984775235143651328)
+2018-04-14 15:16:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:16:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328>
+None
+2018-04-14 15:17:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-946145334308278272-984775235143651328)
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328>
+None
+2018-04-14 15:17:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-936403743691681793-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-941177060093038592-984775235143651328)
+2018-04-14 15:17:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-936403743691681793-984775235143651328>
+None
+2018-04-14 15:17:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-936403743691681793-984775235143651328>
+None
+2018-04-14 15:17:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-936403743691681793-984775235143651328>
+None
+2018-04-14 15:17:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-936403743691681793-984775235143651328>
+None
+2018-04-14 15:17:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-936403743691681793-984775235143651328>
+None
+2018-04-14 15:17:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-936403743691681793-984775235143651328)
+2018-04-14 15:17:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-931709396073222144-984775235143651328)
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328>
+None
+2018-04-14 15:17:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-924962183699603457-984775235143651328)
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-914148671301746688-984775235143651328)
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-908232688900829184-984775235143651328)
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328>
+None
+2018-04-14 15:17:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-901842550616727552-984775235143651328)
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Eye%20Polish%22&src=typed&max_position=TWEET-891246697606721541-984775235143651328>
+None
+2018-04-14 15:17:13 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 15317,
+ 'downloader/request_count': 18,
+ 'downloader/request_method_count/GET': 18,
+ 'downloader/response_bytes': 260964,
+ 'downloader/response_count': 18,
+ 'downloader/response_status_count/200': 18,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 17, 13, 61625),
+ 'item_scraped_count': 303,
+ 'log_count/DEBUG': 624,
+ 'log_count/ERROR': 303,
+ 'log_count/INFO': 6,
+ 'memusage/max': 65413120,
+ 'memusage/startup': 65413120,
+ 'request_depth_max': 18,
+ 'response_received_count': 18,
+ 'scheduler/dequeued': 18,
+ 'scheduler/dequeued/memory': 18,
+ 'scheduler/enqueued': 19,
+ 'scheduler/enqueued/memory': 19,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 16, 39, 562594)}
+2018-04-14 15:17:13 [scrapy] INFO: Spider closed (closespider_itemcount)

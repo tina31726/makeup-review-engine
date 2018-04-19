@@ -1,0 +1,470 @@
+2018-04-14 14:48:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=> (referer: None)
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=)
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040>
+None
+2018-04-14 14:48:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-912418556251398144-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-944659500669243392-983668879896535040)
+2018-04-14 14:48:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-912418556251398144-983668879896535040>
+None
+2018-04-14 14:48:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-912418556251398144-983668879896535040>
+None
+2018-04-14 14:48:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-912418556251398144-983668879896535040>
+None
+2018-04-14 14:48:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-912418556251398144-983668879896535040>
+None
+2018-04-14 14:48:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-912418556251398144-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-912418556251398144-983668879896535040)
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040>
+None
+2018-04-14 14:48:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-880139753764659200-983668879896535040)
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040>
+None
+2018-04-14 14:48:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871886691237326852-983668879896535040)
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040>
+None
+2018-04-14 14:48:37 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-871300818854719488-983668879896535040)
+2018-04-14 14:48:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040>
+None
+2018-04-14 14:48:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-837472377512525825-983668879896535040)
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-793768434194612225-983668879896535040)
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-779641630575955968-983668879896535040)
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-770868811193020416-983668879896535040)
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040>
+None
+2018-04-14 14:48:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-754645605977300992-983668879896535040)
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-633669145133842432-983668879896535040)
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040>
+None
+2018-04-14 14:48:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-482332905495339009-983668879896535040> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-559525929018347524-983668879896535040)
+2018-04-14 14:48:51 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NUDESTIX%20Magnetic%20Eye%20Color&src=typed&max_position=TWEET-482332905495339009-983668879896535040> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:48:51 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:48:51 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 12222,
+ 'downloader/request_count': 14,
+ 'downloader/request_method_count/GET': 14,
+ 'downloader/response_bytes': 165114,
+ 'downloader/response_count': 14,
+ 'downloader/response_status_count/200': 14,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 48, 51, 716834),
+ 'item_scraped_count': 215,
+ 'log_count/DEBUG': 445,
+ 'log_count/ERROR': 215,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 14,
+ 'response_received_count': 14,
+ 'scheduler/dequeued': 14,
+ 'scheduler/dequeued/memory': 14,
+ 'scheduler/enqueued': 14,
+ 'scheduler/enqueued/memory': 14,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 48, 28, 141480)}
+2018-04-14 14:48:51 [scrapy] INFO: Spider closed (finished)

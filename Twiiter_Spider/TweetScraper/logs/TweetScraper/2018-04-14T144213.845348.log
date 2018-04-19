@@ -1,0 +1,93 @@
+2018-04-14 14:42:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=> (referer: None)
+2018-04-14 14:42:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=>
+None
+2018-04-14 14:42:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=)
+2018-04-14 14:42:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872>
+None
+2018-04-14 14:42:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-821027302662402048-954161805433167872> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-871339564870377473-954161805433167872)
+2018-04-14 14:42:18 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Yves%20Saint%20Laurent%20Eye%20Gloss%20Smudger&src=typed&max_position=TWEET-821027302662402048-954161805433167872> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:42:19 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:42:19 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2137,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 23148,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 42, 19, 1170),
+ 'item_scraped_count': 32,
+ 'log_count/DEBUG': 68,
+ 'log_count/ERROR': 32,
+ 'log_count/INFO': 6,
+ 'memusage/max': 45236224,
+ 'memusage/startup': 45236224,
+ 'request_depth_max': 3,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 42, 14, 872141)}
+2018-04-14 14:42:19 [scrapy] INFO: Spider closed (finished)

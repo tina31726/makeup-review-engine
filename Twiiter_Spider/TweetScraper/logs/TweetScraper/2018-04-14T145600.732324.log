@@ -1,0 +1,290 @@
+2018-04-14 14:56:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=> (referer: None)
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=)
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-964288215296262144-965360008979537921)
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921>
+None
+2018-04-14 14:56:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-652143743781367809-965360008979537921)
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-562650540123754496-965360008979537921)
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921>
+None
+2018-04-14 14:56:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560856301094191104-965360008979537921)
+2018-04-14 14:56:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921>
+None
+2018-04-14 14:56:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560851045127954432-965360008979537921)
+2018-04-14 14:56:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921>
+None
+2018-04-14 14:56:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-540946041789763586-965360008979537921> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-560848751565086720-965360008979537921)
+2018-04-14 14:56:17 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Giorgio%20Armani%20Beauty%20Eye%20Tint&src=typed&max_position=TWEET-540946041789763586-965360008979537921> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:56:17 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:56:17 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6737,
+ 'downloader/request_count': 8,
+ 'downloader/request_method_count/GET': 8,
+ 'downloader/response_bytes': 82471,
+ 'downloader/response_count': 8,
+ 'downloader/response_status_count/200': 8,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 56, 17, 866066),
+ 'item_scraped_count': 128,
+ 'log_count/DEBUG': 265,
+ 'log_count/ERROR': 128,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 8,
+ 'response_received_count': 8,
+ 'scheduler/dequeued': 8,
+ 'scheduler/dequeued/memory': 8,
+ 'scheduler/enqueued': 8,
+ 'scheduler/enqueued/memory': 8,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 56, 1, 186807)}
+2018-04-14 14:56:17 [scrapy] INFO: Spider closed (finished)

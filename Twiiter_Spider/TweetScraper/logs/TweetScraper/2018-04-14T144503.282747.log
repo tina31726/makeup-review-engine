@@ -1,0 +1,336 @@
+2018-04-14 14:45:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=> (referer: None)
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=>
+None
+2018-04-14 14:45:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-778573299487997952-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=)
+2018-04-14 14:45:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-778573299487997952-802535105029734400>
+None
+2018-04-14 14:45:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-778573299487997952-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-778573299487997952-802535105029734400)
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-772869803757494272-802535105029734400)
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400>
+None
+2018-04-14 14:45:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-764011679147368449-802535105029734400)
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400>
+None
+2018-04-14 14:45:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-742318749496299520-802535105029734400)
+2018-04-14 14:45:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400>
+None
+2018-04-14 14:45:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-716002628996624391-802535105029734400)
+2018-04-14 14:45:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-699328103726899201-802535105029734400)
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400>
+None
+2018-04-14 14:45:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-694507541708038144-802535105029734400)
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400>
+None
+2018-04-14 14:45:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-693780849678876674-802535105029734400)
+2018-04-14 14:45:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400>
+None
+2018-04-14 14:45:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682184432292241408-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682384472432611331-802535105029734400)
+2018-04-14 14:45:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682184427607212034-802535105029734400> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682184432292241408-802535105029734400)
+2018-04-14 14:45:19 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Prismatique%20Eyes&src=typed&max_position=TWEET-682184427607212034-802535105029734400> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:45:19 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:45:19 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 10426,
+ 'downloader/request_count': 12,
+ 'downloader/request_method_count/GET': 12,
+ 'downloader/response_bytes': 105134,
+ 'downloader/response_count': 12,
+ 'downloader/response_status_count/200': 12,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 45, 19, 613219),
+ 'item_scraped_count': 149,
+ 'log_count/DEBUG': 311,
+ 'log_count/ERROR': 149,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 12,
+ 'response_received_count': 12,
+ 'scheduler/dequeued': 12,
+ 'scheduler/dequeued/memory': 12,
+ 'scheduler/enqueued': 12,
+ 'scheduler/enqueued/memory': 12,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 45, 3, 511029)}
+2018-04-14 14:45:19 [scrapy] INFO: Spider closed (finished)

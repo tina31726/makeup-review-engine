@@ -1,0 +1,367 @@
+2018-04-14 15:13:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=)
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192>
+None
+2018-04-14 15:13:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-763407662839128064-914897712868360192)
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-742318749496299520-914897712868360192)
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-716002628996624391-914897712868360192)
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-705226813283418113-914897712868360192)
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-694515391142301696-914897712868360192)
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192>
+None
+2018-04-14 15:13:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-693791804836065280-914897712868360192)
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192>
+None
+2018-04-14 15:14:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-690702080915349505-914897712868360192)
+2018-04-14 15:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192>
+None
+2018-04-14 15:14:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682184432292241408-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682203257595277312-914897712868360192)
+2018-04-14 15:14:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682184427607212034-914897712868360192> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682184432292241408-914897712868360192)
+2018-04-14 15:14:03 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Prismatique%20Eyes%22&src=typed&max_position=TWEET-682184427607212034-914897712868360192> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 15:14:03 [scrapy] INFO: Closing spider (finished)
+2018-04-14 15:14:03 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 9227,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 110063,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 14, 3, 182822),
+ 'item_scraped_count': 165,
+ 'log_count/DEBUG': 342,
+ 'log_count/ERROR': 165,
+ 'log_count/INFO': 6,
+ 'memusage/max': 65413120,
+ 'memusage/startup': 65413120,
+ 'request_depth_max': 11,
+ 'response_received_count': 11,
+ 'scheduler/dequeued': 11,
+ 'scheduler/dequeued/memory': 11,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 13, 48, 133354)}
+2018-04-14 15:14:03 [scrapy] INFO: Spider closed (finished)

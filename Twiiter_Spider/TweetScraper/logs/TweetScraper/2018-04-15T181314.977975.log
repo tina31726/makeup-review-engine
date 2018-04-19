@@ -1,0 +1,922 @@
+2018-04-15 18:13:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=> (referer: None)
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-15 18:13:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=)
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-963490731963928576-984254398510624768)
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-952824725088161792-984254398510624768)
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-948948746271973376-984254398510624768)
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-936026969334075393-984254398510624768)
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768>
+None
+2018-04-15 18:13:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-924803365028102144-984254398510624768)
+2018-04-15 18:13:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768>
+None
+2018-04-15 18:13:27 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-909781844027199488-984254398510624768)
+2018-04-15 18:13:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768>
+None
+2018-04-15 18:13:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-901390278950395906-984254398510624768)
+2018-04-15 18:13:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-891086439877812224-984254398510624768)
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-884722356698062848-984254398510624768)
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-871592708778872832-984254398510624768)
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768>
+None
+2018-04-15 18:13:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-858637516085354497-984254398510624768)
+2018-04-15 18:13:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768>
+None
+2018-04-15 18:13:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-849439773471199232-984254398510624768)
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-844564953034035200-984254398510624768)
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768>
+None
+2018-04-15 18:13:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-840303132248760320-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-842831939816034304-984254398510624768)
+2018-04-15 18:13:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-840303132248760320-984254398510624768>
+None
+2018-04-15 18:13:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-840303132248760320-984254398510624768>
+None
+2018-04-15 18:13:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-840303132248760320-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-840303132248760320-984254398510624768)
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-839108022127374336-984254398510624768)
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768>
+None
+2018-04-15 18:13:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-837067528492969984-984254398510624768)
+2018-04-15 18:13:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-832740084633915392-984254398510624768)
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768>
+None
+2018-04-15 18:13:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-826252962141966336-984254398510624768)
+2018-04-15 18:13:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-818259508506009601-984254398510624768)
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-811301960011771904-984254398510624768)
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768>
+None
+2018-04-15 18:13:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-806180046243319809-984254398510624768)
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768>
+None
+2018-04-15 18:13:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768>
+None
+2018-04-15 18:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768>
+None
+2018-04-15 18:13:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-798601061044846592-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-802148661526466560-984254398510624768)
+2018-04-15 18:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-798601061044846592-984254398510624768>
+None
+2018-04-15 18:13:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-798601061044846592-984254398510624768>
+None
+2018-04-15 18:13:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797872536792997889-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-798601061044846592-984254398510624768)
+2018-04-15 18:13:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797872536792997889-984254398510624768>
+None
+2018-04-15 18:13:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797872536792997889-984254398510624768)
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-797337529657724928-984254398510624768)
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768>
+None
+2018-04-15 18:13:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-790121653455945733-984254398510624768)
+2018-04-15 18:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768>
+None
+2018-04-15 18:13:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-783649049320665090-984254398510624768)
+2018-04-15 18:13:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-779313658509791232-984254398510624768)
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768>
+None
+2018-04-15 18:13:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-773787526171549696-984254398510624768)
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-768840369995812864-984254398510624768)
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-763637236126605312-984254398510624768)
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None
+2018-04-15 18:14:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Single%20Eye%20Shadow%22&src=typed&max_position=TWEET-752847899642490880-984254398510624768>
+None

@@ -1,0 +1,680 @@
+2018-04-14 15:24:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=)
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177>
+None
+2018-04-14 15:24:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-946771473003315200-976311709450162177)
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177>
+None
+2018-04-14 15:24:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-913311823541174272-976311709450162177)
+2018-04-14 15:24:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-890302506168983552-976311709450162177)
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-863004162623025152-976311709450162177)
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-849203606276395008-976311709450162177)
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177>
+None
+2018-04-14 15:24:24 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-819980270296174592-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-839518106573746176-976311709450162177)
+2018-04-14 15:24:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-819980270296174592-976311709450162177>
+None
+2018-04-14 15:24:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-819980270296174592-976311709450162177>
+None
+2018-04-14 15:24:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-819980270296174592-976311709450162177>
+None
+2018-04-14 15:24:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-819980270296174592-976311709450162177>
+None
+2018-04-14 15:24:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-819980270296174592-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-819980270296174592-976311709450162177)
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177>
+None
+2018-04-14 15:24:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-807213013984047104-976311709450162177)
+2018-04-14 15:24:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-798923331747487744-976311709450162177)
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177>
+None
+2018-04-14 15:24:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-780621607899369472-976311709450162177)
+2018-04-14 15:24:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177>
+None
+2018-04-14 15:24:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-775732852868743168-976311709450162177)
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177>
+None
+2018-04-14 15:24:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-756054510947016704-976311709450162177)
+2018-04-14 15:24:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-707409899546877952-976311709450162177)
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-651276805211492352-976311709450162177)
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-606660488978694144-976311709450162177)
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177>
+None
+2018-04-14 15:24:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-565070417527074816-976311709450162177)
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177>
+None
+2018-04-14 15:24:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-539215812137988097-976311709450162177)
+2018-04-14 15:24:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177>
+None
+2018-04-14 15:24:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-514233597939560448-976311709450162177)
+2018-04-14 15:24:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:44 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:24:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Caviar%20Stick%20Eye%20Colour%22&src=typed&max_position=TWEET-462487900303929344-976311709450162177>
+None
+2018-04-14 15:24:45 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 17756,
+ 'downloader/request_count': 20,
+ 'downloader/request_method_count/GET': 20,
+ 'downloader/response_bytes': 234510,
+ 'downloader/response_count': 20,
+ 'downloader/response_status_count/200': 20,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 24, 45, 708502),
+ 'item_scraped_count': 318,
+ 'log_count/DEBUG': 656,
+ 'log_count/ERROR': 318,
+ 'log_count/INFO': 6,
+ 'memusage/max': 66822144,
+ 'memusage/startup': 66822144,
+ 'request_depth_max': 20,
+ 'response_received_count': 20,
+ 'scheduler/dequeued': 20,
+ 'scheduler/dequeued/memory': 20,
+ 'scheduler/enqueued': 21,
+ 'scheduler/enqueued/memory': 21,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 24, 14, 416936)}
+2018-04-14 15:24:45 [scrapy] INFO: Spider closed (closespider_itemcount)

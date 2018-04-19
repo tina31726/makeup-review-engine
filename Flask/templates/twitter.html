@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron text-center">
+    <h2>Real-time Review from Twitter</h2>
+    <p class="lead">Find most interesting eyeshadow review on Twtitter</p>
+
+  </div>
+
+  <h3>Enter Eyeshadow product name (please include \""):</h3>
+  <form action="" method="POST">
+    <div class="form-group">
+      <label>Eyeshadow Product name:</label>
+      <input type="text" name="name" class="form-control" value={{request.form.name}}>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <h2 style="color:rgb(153, 0, 13)">{{msg}}</h2>
+  </form>
+
+  <h3>or You cane enter the following Eyshaodw products which are best seller in Sephora now:</h3>
+  <ul class="btn-group3"  style="text-align:center">
+    {% for product in products %}
+    <li class="list-group-item">{{product.product}}</a></li>
+    {% endfor %}
+  </ul>
+
+
+{% endblock %}

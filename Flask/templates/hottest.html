@@ -1,0 +1,11 @@
+
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1>Category List</h1>
+  <ul class="btn-group3"  style="text-align:center">
+    {% for article in hottest %}
+    <button onclick="location.href='hottest/{{article._id}}';">{{article._id}} {{article.count}}</button>
+    {% endfor %}
+  </ul>
+{% endblock %}

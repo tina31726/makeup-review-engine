@@ -1,0 +1,230 @@
+2018-04-14 14:48:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:48:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:48:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:48:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:48:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:48:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:48:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=)
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112>
+None
+2018-04-14 14:48:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-939405086048030721-965123230691418112)
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112>
+None
+2018-04-14 14:48:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-877641443526942721-965123230691418112)
+2018-04-14 14:48:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-831235562375770112-965123230691418112)
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112>
+None
+2018-04-14 14:48:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-798886397662724096-965123230691418112)
+2018-04-14 14:48:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112>
+None
+2018-04-14 14:48:24 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-643083304997126144-965123230691418112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-715988268953833473-965123230691418112)
+2018-04-14 14:48:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-643083304997126144-965123230691418112>
+None
+2018-04-14 14:48:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-637152153539231744-965123230691418112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-643083304997126144-965123230691418112)
+2018-04-14 14:48:25 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Perricone%20MD%20No%20Eyeshadow%20Eyeshadow&src=typed&max_position=TWEET-637152153539231744-965123230691418112> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:48:25 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:48:25 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6812,
+ 'downloader/request_count': 8,
+ 'downloader/request_method_count/GET': 8,
+ 'downloader/response_bytes': 71868,
+ 'downloader/response_count': 8,
+ 'downloader/response_status_count/200': 8,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 48, 25, 169909),
+ 'item_scraped_count': 98,
+ 'log_count/DEBUG': 205,
+ 'log_count/ERROR': 98,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 8,
+ 'response_received_count': 8,
+ 'scheduler/dequeued': 8,
+ 'scheduler/dequeued/memory': 8,
+ 'scheduler/enqueued': 8,
+ 'scheduler/enqueued/memory': 8,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 48, 14, 627607)}
+2018-04-14 14:48:25 [scrapy] INFO: Spider closed (finished)

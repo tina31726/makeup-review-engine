@@ -1,0 +1,112 @@
+2018-04-14 14:42:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:42:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:42:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=)
+2018-04-14 14:42:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112>
+None
+2018-04-14 14:42:27 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-650854576044662784-946192657860186112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-694210053058994176-946192657860186112)
+2018-04-14 14:42:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-650854576044662784-946192657860186112>
+None
+2018-04-14 14:42:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-648654488207671296-946192657860186112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-650854576044662784-946192657860186112)
+2018-04-14 14:42:28 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Wander%20Beauty%20Exquisite%20Eye%20Liquid%20Shadow&src=typed&max_position=TWEET-648654488207671296-946192657860186112> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:42:28 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:42:28 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3116,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 33492,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 42, 28, 116663),
+ 'item_scraped_count': 41,
+ 'log_count/DEBUG': 87,
+ 'log_count/ERROR': 41,
+ 'log_count/INFO': 6,
+ 'memusage/max': 48959488,
+ 'memusage/startup': 48959488,
+ 'request_depth_max': 4,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 42, 22, 231051)}
+2018-04-14 14:42:28 [scrapy] INFO: Spider closed (finished)

@@ -7,6 +7,10 @@ import re
 import json
 import time
 import logging
+from dateutil import parser
+
+
+
 try:
     from urllib import quote  # Python 2.X
 except ImportError:
@@ -22,33 +26,40 @@ logger = logging.getLogger(__name__)
 class TweetScraper(CrawlSpider):
     name = 'TweetScraper'
     allowed_domains = ['twitter.com']
+    custom_settings = {
+                    'CLOSESPIDER_ITEMCOUNT': 300}
 
-    def __init__(self, query='', lang='', crawl_user=False, top_tweet=False):
-
-        self.query = query
-        self.url = "https://twitter.com/i/search/timeline?l={}".format(lang)
-
-        if not top_tweet:
-            self.url = self.url + "&f=tweets"
-
-        self.url = self.url + "&q=%s&src=typed&max_position=%s"
-
-        self.crawl_user = crawl_user
+    
+    query = None
+ 
+    def __init__(self, *args, **kwargs):
+        super(TweetScraper, self).__init__(*args, **kwargs)
+        self.query=kwargs['query']
+        self.url = "https://twitter.com/i/search/timeline?l=en&f=tweets&q=%s&src=typed&max_position=%s"
+        print('_init_ query: '+self.query)
 
     def start_requests(self):
         url = self.url % (quote(self.query), '')
+        print('-> to Twitter : {}'.format(url))
         yield http.Request(url, callback=self.parse_page)
+
+    def modify_realtime_request(self, request):
+        # tell ScrapyRT to render request with Splash
+        request.meta["dont_redirect"] = True
+        return request
 
     def parse_page(self, response):
         # inspect_response(response, self)
         # handle current page
         data = json.loads(response.body.decode("utf-8"))
-        for item in self.parse_tweets_block(data['items_html']):
+        for item in self.parse_tweets_block(data['items_html']):             
             yield item
-
+       
+        print(self.crawler.stats.get_value('item_scraped_count', 0))
         # get next page
         min_position = data['min_position']
         url = self.url % (quote(self.query), min_position)
+        print('-> to Twitter next page: {}'.format(url))
         yield http.Request(url, callback=self.parse_page)
 
     def parse_tweets_block(self, html_page):
@@ -63,6 +74,7 @@ class TweetScraper(CrawlSpider):
         for item in items:
             try:
                 tweet = Tweet()
+                tweet['keyword']=self.query
 
                 tweet['usernameTweet'] = item.xpath('.//span[@class="username u-dir u-textTruncate"]/b/text()').extract()[0]
 
@@ -106,7 +118,7 @@ class TweetScraper(CrawlSpider):
 
                 tweet['datetime'] = datetime.fromtimestamp(int(
                     item.xpath('.//div[@class="stream-item-header"]/small[@class="time"]/a/span/@data-time').extract()[
-                        0])).strftime('%Y-%m-%d %H:%M:%S')
+                        0]))
 
                 ### get photo
                 has_cards = item.xpath('.//@data-card-type').extract()
@@ -160,7 +172,7 @@ class TweetScraper(CrawlSpider):
                         item.xpath('.//div[@class="content"]/div[@class="stream-item-header"]/a/img/@src').extract()[0]
                     yield user
             except:
-                logger.error("Error tweet:\n%s" % item.xpath('.').extract()[0])
+                logger.error("Error tweet\n" )
                 # raise
 
     def extract_one(self, selector, xpath, default=None):

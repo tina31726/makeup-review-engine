@@ -1,0 +1,672 @@
+2018-04-14 15:26:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:26:24 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=)
+2018-04-14 15:26:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529>
+None
+2018-04-14 15:26:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-783307832812638209-910141691042070529)
+2018-04-14 15:26:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-765643427954298880-910141691042070529)
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529>
+None
+2018-04-14 15:26:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-760595036413292544-910141691042070529)
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529>
+None
+2018-04-14 15:26:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-752990312033718273-910141691042070529)
+2018-04-14 15:26:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-747472581301723136-910141691042070529)
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529>
+None
+2018-04-14 15:26:34 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745962758030532609-910141691042070529)
+2018-04-14 15:26:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529>
+None
+2018-04-14 15:26:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-745383608098054145-910141691042070529)
+2018-04-14 15:26:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-737674382332436482-910141691042070529)
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724407802790326272-910141691042070529)
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529>
+None
+2018-04-14 15:26:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-724406852453281792-910141691042070529)
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529>
+None
+2018-04-14 15:26:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-611526464865988608-910141691042070529)
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-610016613224587264-910141691042070529)
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-565509971677552641-910141691042070529)
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529>
+None
+2018-04-14 15:26:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-458875880644018176-910141691042070529)
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Fusion%20Mono%20Eyeshadow%22&src=typed&max_position=TWEET-392389584236986369-910141691042070529>
+None
+2018-04-14 15:26:49 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 13944,
+ 'downloader/request_count': 16,
+ 'downloader/request_method_count/GET': 16,
+ 'downloader/response_bytes': 181031,
+ 'downloader/response_count': 16,
+ 'downloader/response_status_count/200': 16,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 26, 49, 997435),
+ 'item_scraped_count': 316,
+ 'log_count/DEBUG': 648,
+ 'log_count/ERROR': 316,
+ 'log_count/INFO': 6,
+ 'memusage/max': 66822144,
+ 'memusage/startup': 66822144,
+ 'request_depth_max': 16,
+ 'response_received_count': 16,
+ 'scheduler/dequeued': 16,
+ 'scheduler/dequeued/memory': 16,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 26, 22, 235893)}
+2018-04-14 15:26:49 [scrapy] INFO: Spider closed (closespider_itemcount)

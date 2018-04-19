@@ -1,0 +1,672 @@
+2018-04-14 14:54:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=> (referer: None)
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=>
+None
+2018-04-14 14:54:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=)
+2018-04-14 14:54:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928>
+None
+2018-04-14 14:54:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-941206566644174849-974538681007484928)
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928>
+None
+2018-04-14 14:54:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-903970293470900225-974538681007484928)
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928>
+None
+2018-04-14 14:54:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-878201922087301121-974538681007484928)
+2018-04-14 14:54:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928>
+None
+2018-04-14 14:54:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928>
+None
+2018-04-14 14:54:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928>
+None
+2018-04-14 14:54:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928>
+None
+2018-04-14 14:54:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928>
+None
+2018-04-14 14:54:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928>
+None
+2018-04-14 14:54:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928>
+None
+2018-04-14 14:54:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-826689688538841088-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-847342856423350272-974538681007484928)
+2018-04-14 14:54:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-826689688538841088-974538681007484928>
+None
+2018-04-14 14:54:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-826689688538841088-974538681007484928>
+None
+2018-04-14 14:54:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-826689688538841088-974538681007484928>
+None
+2018-04-14 14:54:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-826689688538841088-974538681007484928>
+None
+2018-04-14 14:54:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-826689688538841088-974538681007484928>
+None
+2018-04-14 14:54:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-826689688538841088-974538681007484928)
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-809070193351786496-974538681007484928)
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-800815400246251521-974538681007484928)
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-787068743306272768-974538681007484928)
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928>
+None
+2018-04-14 14:54:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-773187607861850112-974538681007484928)
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928>
+None
+2018-04-14 14:54:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-711653232188137472-974538681007484928)
+2018-04-14 14:54:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-636655874774163456-974538681007484928)
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928>
+None
+2018-04-14 14:54:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-545652646896340992-974538681007484928)
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-514233597939560448-974538681007484928)
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-452982886619041793-974538681007484928)
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928>
+None
+2018-04-14 14:54:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-408504320544362496-974538681007484928)
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-402414952893280257-974538681007484928)
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928>
+None
+2018-04-14 14:54:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-326706768921128961-974538681007484928)
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928>
+None
+2018-04-14 14:54:37 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-299217046028288001-974538681007484928)
+2018-04-14 14:54:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Laura%20Mercier%20Caviar%20Stick%20Eye%20Colour&src=typed&max_position=TWEET-203121486658150401-974538681007484928>
+None
+2018-04-14 14:54:38 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 18224,
+ 'downloader/request_count': 20,
+ 'downloader/request_method_count/GET': 20,
+ 'downloader/response_bytes': 222182,
+ 'downloader/response_count': 20,
+ 'downloader/response_status_count/200': 20,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 54, 38, 876653),
+ 'item_scraped_count': 314,
+ 'log_count/DEBUG': 553,
+ 'log_count/ERROR': 314,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 20,
+ 'response_received_count': 20,
+ 'scheduler/dequeued': 20,
+ 'scheduler/dequeued/memory': 20,
+ 'scheduler/enqueued': 21,
+ 'scheduler/enqueued/memory': 21,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 54, 10, 42853)}
+2018-04-14 14:54:38 [scrapy] INFO: Spider closed (closespider_itemcount)

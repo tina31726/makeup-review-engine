@@ -1,0 +1,36 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<div class="jumbotron text-center">
+  <h2>Real-time Review from Twitter</h2>
+  <p class="lead">Find most interesting eyeshadow review on Twtitter</p>
+
+</div>
+<h2>Sephora review:</h2>  
+
+{% if s_info != None %}
+<h3>{{s_info['brand_name']}}&nbsp;{{s_info['product']}}&nbsp;Rating:{{s_info['p_star']}}&nbsp;</h3>
+<h4>{{s_len}} reviews</h4>
+  {% endif %}
+
+
+
+<h2>Twitter review:</h2>
+<h4>{{t_len}} reviews</h4>
+
+<div class="container">
+    <div class="row">
+      <div class="col-sm-6"  style="background-color:rgb(245, 245, 26);">
+          <h1>Review Trend:</h1> 
+          <img src="data:image/png;base64, {{ url }}" width="400" height="300" alt="graph">
+      </div>
+      <div class="col-sm-6" style="background-color:pink;">
+          <h2>Twitter Score:</h2>
+          <h4>{{score}}</h4>      
+        </div>
+    </div>
+  </div>
+
+
+
+{% endblock %}

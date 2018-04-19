@@ -1,0 +1,658 @@
+2018-04-14 15:41:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=> (referer: None)
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=>
+None
+2018-04-14 15:41:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=)
+2018-04-14 15:41:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984784633244954629-985245710101762048)
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984398089028071425-985245710101762048)
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-984134863723741184-985245710101762048)
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983665238192066560-985245710101762048)
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-983177857869451264-985245710101762048)
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048>
+None
+2018-04-14 15:41:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982746544926613504-985245710101762048)
+2018-04-14 15:41:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-982293159727255553-985245710101762048)
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048>
+None
+2018-04-14 15:41:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981959905694355456-985245710101762048)
+2018-04-14 15:41:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981477140591009792-985245710101762048)
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:41:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-981024514527191040-985245710101762048)
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048>
+None
+2018-04-14 15:42:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980636974783647746-985245710101762048)
+2018-04-14 15:42:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-980188634811981824-985245710101762048)
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048>
+None
+2018-04-14 15:42:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979827065166946304-985245710101762048)
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-979371286026702849-985245710101762048)
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048>
+None
+2018-04-14 15:42:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978834158842777600-985245710101762048)
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048>
+None
+2018-04-14 15:42:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-978468798322954240-985245710101762048)
+2018-04-14 15:42:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977947972687335424-985245710101762048)
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048>
+None
+2018-04-14 15:42:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977485711485100033-985245710101762048)
+2018-04-14 15:42:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=Eye%20Pigment&src=typed&max_position=TWEET-977060440080601088-985245710101762048>
+None
+2018-04-14 15:42:13 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 16898,
+ 'downloader/request_count': 20,
+ 'downloader/request_method_count/GET': 20,
+ 'downloader/response_bytes': 299762,
+ 'downloader/response_count': 20,
+ 'downloader/response_status_count/200': 20,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 42, 13, 879413),
+ 'item_scraped_count': 307,
+ 'log_count/DEBUG': 530,
+ 'log_count/ERROR': 307,
+ 'log_count/INFO': 6,
+ 'memusage/max': 45154304,
+ 'memusage/startup': 45154304,
+ 'request_depth_max': 20,
+ 'response_received_count': 20,
+ 'scheduler/dequeued': 20,
+ 'scheduler/dequeued/memory': 20,
+ 'scheduler/enqueued': 21,
+ 'scheduler/enqueued/memory': 21,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 41, 42, 734922)}
+2018-04-14 15:42:13 [scrapy] INFO: Spider closed (closespider_itemcount)

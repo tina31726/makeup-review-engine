@@ -1,0 +1,348 @@
+2018-04-14 14:46:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=>
+None
+2018-04-14 14:46:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=)
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112>
+None
+2018-04-14 14:46:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-974149390473539584-984698613057114112)
+2018-04-14 14:46:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112>
+None
+2018-04-14 14:46:37 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-967492238694666241-984698613057114112)
+2018-04-14 14:46:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-959866872572383232-984698613057114112)
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112>
+None
+2018-04-14 14:46:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-958385009454403584-984698613057114112)
+2018-04-14 14:46:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112>
+None
+2018-04-14 14:46:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-949311788327284737-984698613057114112)
+2018-04-14 14:46:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-938891394885623809-984698613057114112)
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112>
+None
+2018-04-14 14:46:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-925050229665263621-984698613057114112)
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112>
+None
+2018-04-14 14:46:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907938339004788737-984698613057114112> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907948511202824192-984698613057114112)
+2018-04-14 14:46:47 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=stila%20Shimmer%20%26%20Glow%20Liquid%20Eye%20Shadow&src=typed&max_position=TWEET-907938339004788737-984698613057114112> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:46:48 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:46:48 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 8859,
+ 'downloader/request_count': 10,
+ 'downloader/request_method_count/GET': 10,
+ 'downloader/response_bytes': 123890,
+ 'downloader/response_count': 10,
+ 'downloader/response_status_count/200': 10,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 46, 48, 2259),
+ 'item_scraped_count': 156,
+ 'log_count/DEBUG': 313,
+ 'log_count/ERROR': 156,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 10,
+ 'response_received_count': 10,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 10,
+ 'scheduler/enqueued/memory': 10,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 46, 31, 638700)}
+2018-04-14 14:46:48 [scrapy] INFO: Spider closed (finished)

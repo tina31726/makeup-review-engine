@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+  {% for result in product_info %}
+  <img src="data:image/png;base64, {{ result }}" width="1000" height="800" alt="graph">
+  {% endfor %}
+
+
+
+{% endblock %}

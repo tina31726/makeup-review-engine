@@ -11,7 +11,7 @@ class Tweet(Item):
     text = Field()     # text content
     user_id = Field()  # user id
     usernameTweet = Field() # username of tweet
-
+    keyword = Field() 
     nbr_retweet = Field()  # nbr of retweet
     nbr_favorite = Field() # nbr of favorite
     nbr_reply = Field()    # nbr of reply

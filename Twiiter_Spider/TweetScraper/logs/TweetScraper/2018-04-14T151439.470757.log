@@ -1,0 +1,321 @@
+2018-04-14 15:14:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:14:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=>
+None
+2018-04-14 15:14:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=)
+2018-04-14 15:14:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163>
+None
+2018-04-14 15:14:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-602387749006618624-962466307521372163)
+2018-04-14 15:14:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163>
+None
+2018-04-14 15:14:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-418926016569303040-962466307521372163)
+2018-04-14 15:14:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-310470770398740480-962466307521372163)
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-178726710852853760-962466307521372163)
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-70521515321470978-962466307521372163)
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-1949059429-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-14943467308-962466307521372163)
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-1949059429-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-1949059429-962466307521372163>
+None
+2018-04-14 15:14:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-1949059429-962466307521372163>
+None
+2018-04-14 15:14:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-1447497052-962466307521372163> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-1949059429-962466307521372163)
+2018-04-14 15:14:55 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Kitten%20Eye%20Shadow%22&src=typed&max_position=TWEET-1447497052-962466307521372163> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 15:14:55 [scrapy] INFO: Closing spider (finished)
+2018-04-14 15:14:55 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7438,
+ 'downloader/request_count': 9,
+ 'downloader/request_method_count/GET': 9,
+ 'downloader/response_bytes': 102037,
+ 'downloader/response_count': 9,
+ 'downloader/response_status_count/200': 9,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 14, 55, 171877),
+ 'item_scraped_count': 143,
+ 'log_count/DEBUG': 296,
+ 'log_count/ERROR': 143,
+ 'log_count/INFO': 6,
+ 'memusage/max': 65413120,
+ 'memusage/startup': 65413120,
+ 'request_depth_max': 9,
+ 'response_received_count': 9,
+ 'scheduler/dequeued': 9,
+ 'scheduler/dequeued/memory': 9,
+ 'scheduler/enqueued': 9,
+ 'scheduler/enqueued/memory': 9,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 14, 39, 699069)}
+2018-04-14 15:14:55 [scrapy] INFO: Spider closed (finished)

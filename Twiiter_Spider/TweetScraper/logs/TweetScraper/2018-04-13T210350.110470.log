@@ -1,0 +1,21 @@
+2018-04-13 21:03:51 [scrapy] ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "/Users/YiChen/anaconda3/lib/python3.6/site-packages/scrapy/core/engine.py", line 127, in _next_request
+    request = next(slot.start_requests)
+  File "/Users/YiChen/Documents/CS579_Project/Twiiter_Spider/TweetScraper/spiders/TweetCrawler.py", line 53, in start_requests
+    url = self.url % (quote(self.query), '')
+  File "/Users/YiChen/anaconda3/lib/python3.6/urllib/parse.py", line 787, in quote
+    return quote_from_bytes(string, safe)
+  File "/Users/YiChen/anaconda3/lib/python3.6/urllib/parse.py", line 812, in quote_from_bytes
+    raise TypeError("quote_from_bytes() expected bytes")
+TypeError: quote_from_bytes() expected bytes
+2018-04-13 21:03:51 [scrapy] INFO: Closing spider (finished)
+2018-04-13 21:03:51 [scrapy] INFO: Dumping Scrapy stats:
+{'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 2, 3, 51, 371660),
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 6,
+ 'memusage/max': 54505472,
+ 'memusage/startup': 54501376,
+ 'start_time': datetime.datetime(2018, 4, 14, 2, 3, 51, 350921)}
+2018-04-13 21:03:51 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,670 @@
+2018-04-14 15:15:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=)
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-962136748385013761-985218964040142859)
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859>
+None
+2018-04-14 15:15:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-938075619560185857-985218964040142859)
+2018-04-14 15:15:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859>
+None
+2018-04-14 15:15:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-924974632511332352-985218964040142859)
+2018-04-14 15:15:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-891978967342821376-985218964040142859)
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859>
+None
+2018-04-14 15:15:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-880490162303750148-985218964040142859)
+2018-04-14 15:15:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859>
+None
+2018-04-14 15:15:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-864991929653751808-985218964040142859)
+2018-04-14 15:15:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859>
+None
+2018-04-14 15:15:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-853327082885189632-985218964040142859)
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:15:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:16:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:16:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:16:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859>
+None
+2018-04-14 15:16:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-838430188153163776-985218964040142859)
+2018-04-14 15:16:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-834487985274028036-985218964040142859)
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859>
+None
+2018-04-14 15:16:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-823913013006712832-985218964040142859)
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859>
+None
+2018-04-14 15:16:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-816981436448251904-985218964040142859)
+2018-04-14 15:16:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859>
+None
+2018-04-14 15:16:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-810151826993639426-985218964040142859)
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859>
+None
+2018-04-14 15:16:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-802219045185581061-985218964040142859)
+2018-04-14 15:16:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859>
+None
+2018-04-14 15:16:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-773948461116829696-985218964040142859)
+2018-04-14 15:16:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:13 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:16:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Easy%20Smoky%20Eye%22&src=typed&max_position=TWEET-766834093212434432-985218964040142859>
+None
+2018-04-14 15:16:14 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 13727,
+ 'downloader/request_count': 16,
+ 'downloader/request_method_count/GET': 16,
+ 'downloader/response_bytes': 241511,
+ 'downloader/response_count': 16,
+ 'downloader/response_status_count/200': 16,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 16, 14, 711622),
+ 'item_scraped_count': 315,
+ 'log_count/DEBUG': 646,
+ 'log_count/ERROR': 315,
+ 'log_count/INFO': 6,
+ 'memusage/max': 65413120,
+ 'memusage/startup': 65413120,
+ 'request_depth_max': 16,
+ 'response_received_count': 16,
+ 'scheduler/dequeued': 16,
+ 'scheduler/dequeued/memory': 16,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 15, 40, 958457)}
+2018-04-14 15:16:14 [scrapy] INFO: Spider closed (closespider_itemcount)

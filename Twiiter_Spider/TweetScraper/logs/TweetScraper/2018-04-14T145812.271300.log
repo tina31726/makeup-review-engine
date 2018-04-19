@@ -1,0 +1,666 @@
+2018-04-14 14:58:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=> (referer: None)
+2018-04-14 14:58:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=>
+None
+2018-04-14 14:58:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=>
+None
+2018-04-14 14:58:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=>
+None
+2018-04-14 14:58:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=>
+None
+2018-04-14 14:58:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=)
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968442105520631809-984499381301723137)
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137>
+None
+2018-04-14 14:58:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-968122203957903360-984499381301723137)
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137>
+None
+2018-04-14 14:58:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-962862077135204352-984499381301723137)
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-947990287435038720-984499381301723137)
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-938679812205539328-984499381301723137)
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137>
+None
+2018-04-14 14:58:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-925377521968967681-984499381301723137)
+2018-04-14 14:58:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137>
+None
+2018-04-14 14:58:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-917039423656808450-984499381301723137)
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137>
+None
+2018-04-14 14:58:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-907163440560603136-984499381301723137)
+2018-04-14 14:58:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137>
+None
+2018-04-14 14:58:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137>
+None
+2018-04-14 14:58:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137>
+None
+2018-04-14 14:58:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137>
+None
+2018-04-14 14:58:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137>
+None
+2018-04-14 14:58:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-897572491362787328-984499381301723137)
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-890371549097857028-984499381301723137)
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-884230093773692928-984499381301723137)
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-879240324404654081-984499381301723137)
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137>
+None
+2018-04-14 14:58:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-867249229747671040-984499381301723137)
+2018-04-14 14:58:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137>
+None
+2018-04-14 14:58:31 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-848846580438507522-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-859558383367712768-984499381301723137)
+2018-04-14 14:58:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-848846580438507522-984499381301723137>
+None
+2018-04-14 14:58:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-848846580438507522-984499381301723137>
+None
+2018-04-14 14:58:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-848846580438507522-984499381301723137>
+None
+2018-04-14 14:58:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-848846580438507522-984499381301723137>
+None
+2018-04-14 14:58:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-848846580438507522-984499381301723137>
+None
+2018-04-14 14:58:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-848846580438507522-984499381301723137)
+2018-04-14 14:58:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137>
+None
+2018-04-14 14:58:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-838741817218625537-984499381301723137)
+2018-04-14 14:58:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137>
+None
+2018-04-14 14:58:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137>
+None
+2018-04-14 14:58:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137>
+None
+2018-04-14 14:58:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137>
+None
+2018-04-14 14:58:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137>
+None
+2018-04-14 14:58:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137>
+None
+2018-04-14 14:58:34 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137>
+None
+2018-04-14 14:58:34 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-828438400017522688-984499381301723137)
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-822909794503770112-984499381301723137)
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-812518352392437760-984499381301723137)
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137>
+None
+2018-04-14 14:58:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-807075751300399108-984499381301723137)
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137>
+None
+2018-04-14 14:58:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-798006413192609792-984499381301723137)
+2018-04-14 14:58:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137>
+None
+2018-04-14 14:58:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137>
+None
+2018-04-14 14:58:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137>
+None
+2018-04-14 14:58:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137>
+None
+2018-04-14 14:58:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137>
+None
+2018-04-14 14:58:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137>
+None
+2018-04-14 14:58:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-786700793923633152-984499381301723137)
+2018-04-14 14:58:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137>
+None
+2018-04-14 14:58:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137>
+None
+2018-04-14 14:58:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137>
+None
+2018-04-14 14:58:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137>
+None
+2018-04-14 14:58:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137>
+None
+2018-04-14 14:58:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137>
+None
+2018-04-14 14:58:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137>
+None
+2018-04-14 14:58:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-781432254530744320-984499381301723137)
+2018-04-14 14:58:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137>
+None
+2018-04-14 14:58:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137>
+None
+2018-04-14 14:58:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137>
+None
+2018-04-14 14:58:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137>
+None
+2018-04-14 14:58:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137>
+None
+2018-04-14 14:58:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137>
+None
+2018-04-14 14:58:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-773070787225849860-984499381301723137)
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-765608681350139904-984499381301723137)
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137>
+None
+2018-04-14 14:58:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-752869879162675200-984499381301723137)
+2018-04-14 14:58:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-740195820973264896-984499381301723137)
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137>
+None
+2018-04-14 14:58:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-732569566195261441-984499381301723137)
+2018-04-14 14:58:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20Lid%20Pop&src=typed&max_position=TWEET-721728037545459713-984499381301723137>
+None
+2018-04-14 14:58:49 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 26091,
+ 'downloader/request_count': 30,
+ 'downloader/request_method_count/GET': 30,
+ 'downloader/response_bytes': 263890,
+ 'downloader/response_count': 30,
+ 'downloader/response_status_count/200': 30,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 58, 49, 988181),
+ 'item_scraped_count': 306,
+ 'log_count/DEBUG': 642,
+ 'log_count/ERROR': 306,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 30,
+ 'response_received_count': 30,
+ 'scheduler/dequeued': 30,
+ 'scheduler/dequeued/memory': 30,
+ 'scheduler/enqueued': 31,
+ 'scheduler/enqueued/memory': 31,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 58, 12, 508546)}
+2018-04-14 14:58:49 [scrapy] INFO: Spider closed (closespider_itemcount)

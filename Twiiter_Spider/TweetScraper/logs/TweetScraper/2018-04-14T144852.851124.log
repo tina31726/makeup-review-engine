@@ -1,0 +1,408 @@
+2018-04-14 14:48:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=> (referer: None)
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=>
+None
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=>
+None
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=>
+None
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=>
+None
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=>
+None
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=>
+None
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=>
+None
+2018-04-14 14:48:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=)
+2018-04-14 14:48:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585>
+None
+2018-04-14 14:48:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-916702878697324544-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-955025038973063169-973469502489923585)
+2018-04-14 14:48:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-916702878697324544-973469502489923585>
+None
+2018-04-14 14:48:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-916702878697324544-973469502489923585>
+None
+2018-04-14 14:48:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-916702878697324544-973469502489923585>
+None
+2018-04-14 14:48:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-898485317711351808-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-916702878697324544-973469502489923585)
+2018-04-14 14:48:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-898485317711351808-973469502489923585>
+None
+2018-04-14 14:48:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-898485317711351808-973469502489923585>
+None
+2018-04-14 14:48:57 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-875020686200385536-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-898485317711351808-973469502489923585)
+2018-04-14 14:48:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-875020686200385536-973469502489923585>
+None
+2018-04-14 14:48:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-875020686200385536-973469502489923585>
+None
+2018-04-14 14:48:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-875020686200385536-973469502489923585>
+None
+2018-04-14 14:48:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-875020686200385536-973469502489923585>
+None
+2018-04-14 14:48:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-875020686200385536-973469502489923585>
+None
+2018-04-14 14:48:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-875020686200385536-973469502489923585)
+2018-04-14 14:48:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585>
+None
+2018-04-14 14:48:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585>
+None
+2018-04-14 14:48:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585>
+None
+2018-04-14 14:48:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585>
+None
+2018-04-14 14:48:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585>
+None
+2018-04-14 14:48:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585>
+None
+2018-04-14 14:48:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585>
+None
+2018-04-14 14:48:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-849584950215094273-973469502489923585)
+2018-04-14 14:48:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585>
+None
+2018-04-14 14:48:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585>
+None
+2018-04-14 14:48:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585>
+None
+2018-04-14 14:48:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585>
+None
+2018-04-14 14:48:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585>
+None
+2018-04-14 14:48:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585>
+None
+2018-04-14 14:49:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-828870085142048768-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-841246627792859141-973469502489923585)
+2018-04-14 14:49:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-828870085142048768-973469502489923585>
+None
+2018-04-14 14:49:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-828870085142048768-973469502489923585>
+None
+2018-04-14 14:49:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-828870085142048768-973469502489923585>
+None
+2018-04-14 14:49:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-828870085142048768-973469502489923585)
+2018-04-14 14:49:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585>
+None
+2018-04-14 14:49:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585>
+None
+2018-04-14 14:49:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585>
+None
+2018-04-14 14:49:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585>
+None
+2018-04-14 14:49:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585>
+None
+2018-04-14 14:49:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585>
+None
+2018-04-14 14:49:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-820710499260256259-973469502489923585)
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585>
+None
+2018-04-14 14:49:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-801497900404441089-973469502489923585)
+2018-04-14 14:49:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585>
+None
+2018-04-14 14:49:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-768953175512612864-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-790615686544437248-973469502489923585)
+2018-04-14 14:49:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-768953175512612864-973469502489923585>
+None
+2018-04-14 14:49:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-768953175512612864-973469502489923585>
+None
+2018-04-14 14:49:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-768953175512612864-973469502489923585>
+None
+2018-04-14 14:49:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-742035608948838400-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-768953175512612864-973469502489923585)
+2018-04-14 14:49:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-742035608948838400-973469502489923585>
+None
+2018-04-14 14:49:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-742035608948838400-973469502489923585>
+None
+2018-04-14 14:49:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-742035608948838400-973469502489923585>
+None
+2018-04-14 14:49:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-742035608948838400-973469502489923585)
+2018-04-14 14:49:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-717724236350103552-973469502489923585)
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-684867640918069248-973469502489923585)
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585>
+None
+2018-04-14 14:49:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-667130669391151104-973469502489923585)
+2018-04-14 14:49:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-644006485454884864-973469502489923585)
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585>
+None
+2018-04-14 14:49:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-605877647608930304-973469502489923585)
+2018-04-14 14:49:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585>
+None
+2018-04-14 14:49:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585>
+None
+2018-04-14 14:49:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585>
+None
+2018-04-14 14:49:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585>
+None
+2018-04-14 14:49:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585>
+None
+2018-04-14 14:49:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585>
+None
+2018-04-14 14:49:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-184157073750228992-973469502489923585> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-547538505144877056-973469502489923585)
+2018-04-14 14:49:16 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=NARS%20Velvet%20Shadow%20Stick&src=typed&max_position=TWEET-184157073750228992-973469502489923585> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:49:16 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:49:16 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 17561,
+ 'downloader/request_count': 20,
+ 'downloader/request_method_count/GET': 20,
+ 'downloader/response_bytes': 162763,
+ 'downloader/response_count': 20,
+ 'downloader/response_status_count/200': 20,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 49, 16, 20564),
+ 'item_scraped_count': 181,
+ 'log_count/DEBUG': 383,
+ 'log_count/ERROR': 181,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 20,
+ 'response_received_count': 20,
+ 'scheduler/dequeued': 20,
+ 'scheduler/dequeued/memory': 20,
+ 'scheduler/enqueued': 20,
+ 'scheduler/enqueued/memory': 20,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 48, 53, 81103)}
+2018-04-14 14:49:16 [scrapy] INFO: Spider closed (finished)

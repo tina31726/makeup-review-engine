@@ -1,0 +1,490 @@
+2018-04-14 15:18:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:18:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:18:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:18:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=)
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224>
+None
+2018-04-14 15:18:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224>
+None
+2018-04-14 15:18:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-894389420140503042-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-929324458086621184-981894525391028224)
+2018-04-14 15:18:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-894389420140503042-981894525391028224>
+None
+2018-04-14 15:18:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-894389420140503042-981894525391028224>
+None
+2018-04-14 15:18:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-894389420140503042-981894525391028224>
+None
+2018-04-14 15:18:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-894389420140503042-981894525391028224>
+None
+2018-04-14 15:18:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-839664918911729664-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-894389420140503042-981894525391028224)
+2018-04-14 15:18:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-839664918911729664-981894525391028224>
+None
+2018-04-14 15:18:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-839664918911729664-981894525391028224>
+None
+2018-04-14 15:18:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-839664918911729664-981894525391028224>
+None
+2018-04-14 15:18:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-839664918911729664-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-839664918911729664-981894525391028224)
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-818246674824986624-981894525391028224)
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-793914923428577280-981894525391028224)
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-769412414160965632-981894525391028224)
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-763079424770138112-981894525391028224)
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-760211889351647232-981894525391028224)
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:18:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757654410747113472-981894525391028224)
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757272977184546816-981894525391028224)
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-757256662579286016-981894525391028224)
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224>
+None
+2018-04-14 15:19:05 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-756544486629515264-981894525391028224)
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224>
+None
+2018-04-14 15:19:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-539274766851383296-981894525391028224)
+2018-04-14 15:19:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224>
+None
+2018-04-14 15:19:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-517883459373502465-981894525391028224> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-526567778636288001-981894525391028224)
+2018-04-14 15:19:09 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Hardwired%20Eyeshadow%22&src=typed&max_position=TWEET-517883459373502465-981894525391028224> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 15:19:09 [scrapy] INFO: Closing spider (finished)
+2018-04-14 15:19:09 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 13820,
+ 'downloader/request_count': 16,
+ 'downloader/request_method_count/GET': 16,
+ 'downloader/response_bytes': 169395,
+ 'downloader/response_count': 16,
+ 'downloader/response_status_count/200': 16,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 19, 9, 40886),
+ 'item_scraped_count': 224,
+ 'log_count/DEBUG': 465,
+ 'log_count/ERROR': 224,
+ 'log_count/INFO': 6,
+ 'memusage/max': 65413120,
+ 'memusage/startup': 65413120,
+ 'request_depth_max': 16,
+ 'response_received_count': 16,
+ 'scheduler/dequeued': 16,
+ 'scheduler/dequeued/memory': 16,
+ 'scheduler/enqueued': 16,
+ 'scheduler/enqueued/memory': 16,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 18, 47, 102532)}
+2018-04-14 15:19:09 [scrapy] INFO: Spider closed (finished)

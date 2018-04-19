@@ -1,0 +1,672 @@
+2018-04-14 14:59:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=> (referer: None)
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=)
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064>
+None
+2018-04-14 14:59:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-966705634728013824-983605431561048064)
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064>
+None
+2018-04-14 14:59:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-914338876453404672-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-940546160720269312-983605431561048064)
+2018-04-14 14:59:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-914338876453404672-983605431561048064>
+None
+2018-04-14 14:59:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-914338876453404672-983605431561048064>
+None
+2018-04-14 14:59:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-914338876453404672-983605431561048064>
+None
+2018-04-14 14:59:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-912105173085954048-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-914338876453404672-983605431561048064)
+2018-04-14 14:59:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-912105173085954048-983605431561048064>
+None
+2018-04-14 14:59:27 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-912105173085954048-983605431561048064)
+2018-04-14 14:59:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-892911309041303553-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-899244638674046976-983605431561048064)
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-892911309041303553-983605431561048064>
+None
+2018-04-14 14:59:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-892911309041303553-983605431561048064>
+None
+2018-04-14 14:59:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-892911309041303553-983605431561048064>
+None
+2018-04-14 14:59:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-892911309041303553-983605431561048064)
+2018-04-14 14:59:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064>
+None
+2018-04-14 14:59:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-882399814822055936-983605431561048064)
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064>
+None
+2018-04-14 14:59:32 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-867421896568188928-983605431561048064)
+2018-04-14 14:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064>
+None
+2018-04-14 14:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064>
+None
+2018-04-14 14:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064>
+None
+2018-04-14 14:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064>
+None
+2018-04-14 14:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064>
+None
+2018-04-14 14:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064>
+None
+2018-04-14 14:59:32 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064>
+None
+2018-04-14 14:59:33 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-845469094669303808-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-853751159491895297-983605431561048064)
+2018-04-14 14:59:33 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-845469094669303808-983605431561048064>
+None
+2018-04-14 14:59:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-843845707849072641-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-845469094669303808-983605431561048064)
+2018-04-14 14:59:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-843845707849072641-983605431561048064>
+None
+2018-04-14 14:59:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-843845707849072641-983605431561048064>
+None
+2018-04-14 14:59:35 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-843845707849072641-983605431561048064>
+None
+2018-04-14 14:59:35 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-843845707849072641-983605431561048064)
+2018-04-14 14:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064>
+None
+2018-04-14 14:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064>
+None
+2018-04-14 14:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064>
+None
+2018-04-14 14:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064>
+None
+2018-04-14 14:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064>
+None
+2018-04-14 14:59:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064>
+None
+2018-04-14 14:59:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-828196604662468614-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-836990954611552256-983605431561048064)
+2018-04-14 14:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-828196604662468614-983605431561048064>
+None
+2018-04-14 14:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-828196604662468614-983605431561048064>
+None
+2018-04-14 14:59:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-828196604662468614-983605431561048064>
+None
+2018-04-14 14:59:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-828196604662468614-983605431561048064)
+2018-04-14 14:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064>
+None
+2018-04-14 14:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064>
+None
+2018-04-14 14:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064>
+None
+2018-04-14 14:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064>
+None
+2018-04-14 14:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064>
+None
+2018-04-14 14:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064>
+None
+2018-04-14 14:59:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064>
+None
+2018-04-14 14:59:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-819272940609032210-983605431561048064)
+2018-04-14 14:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064>
+None
+2018-04-14 14:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064>
+None
+2018-04-14 14:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064>
+None
+2018-04-14 14:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064>
+None
+2018-04-14 14:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064>
+None
+2018-04-14 14:59:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-814260721240383488-983605431561048064)
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064>
+None
+2018-04-14 14:59:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-807074390777233408-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-811167969585860608-983605431561048064)
+2018-04-14 14:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-807074390777233408-983605431561048064>
+None
+2018-04-14 14:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-807074390777233408-983605431561048064>
+None
+2018-04-14 14:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-807074390777233408-983605431561048064>
+None
+2018-04-14 14:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-807074390777233408-983605431561048064>
+None
+2018-04-14 14:59:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-807074390777233408-983605431561048064>
+None
+2018-04-14 14:59:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-802911664836399104-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-807074390777233408-983605431561048064)
+2018-04-14 14:59:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-802911664836399104-983605431561048064>
+None
+2018-04-14 14:59:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-802911664836399104-983605431561048064>
+None
+2018-04-14 14:59:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-802911664836399104-983605431561048064>
+None
+2018-04-14 14:59:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-797972323101863936-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-802911664836399104-983605431561048064)
+2018-04-14 14:59:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-797972323101863936-983605431561048064)
+2018-04-14 14:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064>
+None
+2018-04-14 14:59:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-791282195696644096-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-794669632372310016-983605431561048064)
+2018-04-14 14:59:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-791282195696644096-983605431561048064>
+None
+2018-04-14 14:59:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-788809282758316032-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-791282195696644096-983605431561048064)
+2018-04-14 14:59:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-788809282758316032-983605431561048064>
+None
+2018-04-14 14:59:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-785253317534486528-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-788809282758316032-983605431561048064)
+2018-04-14 14:59:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-785253317534486528-983605431561048064>
+None
+2018-04-14 14:59:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-785253317534486528-983605431561048064>
+None
+2018-04-14 14:59:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-783602116770295808-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-785253317534486528-983605431561048064)
+2018-04-14 14:59:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-782107406620852224-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-783602116770295808-983605431561048064)
+2018-04-14 14:59:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-782107406620852224-983605431561048064>
+None
+2018-04-14 14:59:47 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-782107406620852224-983605431561048064)
+2018-04-14 14:59:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064>
+None
+2018-04-14 14:59:49 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-780912519133093888-983605431561048064)
+2018-04-14 14:59:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-779629115825684480-983605431561048064)
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064>
+None
+2018-04-14 14:59:52 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-776827561665966084-983605431561048064)
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064>
+None
+2018-04-14 14:59:54 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-771952056580055040-983605431561048064)
+2018-04-14 14:59:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-769193985332031488-983605431561048064)
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064>
+None
+2018-04-14 14:59:57 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-765698982580396032-983605431561048064)
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-748486489185656832-983605431561048064)
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 14:59:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-711235199313444864-983605431561048064)
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064>
+None
+2018-04-14 15:00:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-677945579192885248-983605431561048064)
+2018-04-14 15:00:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:02 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:00:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=CLINIQUE%20All%20About%20Shadow%20-%20Quad&src=typed&max_position=TWEET-659190258261557248-983605431561048064>
+None
+2018-04-14 15:00:03 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 33005,
+ 'downloader/request_count': 36,
+ 'downloader/request_method_count/GET': 36,
+ 'downloader/response_bytes': 270636,
+ 'downloader/response_count': 36,
+ 'downloader/response_status_count/200': 36,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 0, 3, 160569),
+ 'item_scraped_count': 306,
+ 'log_count/DEBUG': 645,
+ 'log_count/ERROR': 306,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 36,
+ 'response_received_count': 36,
+ 'scheduler/dequeued': 36,
+ 'scheduler/dequeued/memory': 36,
+ 'scheduler/enqueued': 37,
+ 'scheduler/enqueued/memory': 37,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 59, 22, 163406)}
+2018-04-14 15:00:03 [scrapy] INFO: Spider closed (closespider_itemcount)

@@ -52,3 +52,4 @@ MONGODB_DB = "twitterdb"        # database name to save the crawled data
 MONGODB_TWEET_COLLECTION = "tweet_collect" # collection name to save tweets
 MONGODB_USER_COLLECTION = "user_collect"   # collection name to save users
 
+

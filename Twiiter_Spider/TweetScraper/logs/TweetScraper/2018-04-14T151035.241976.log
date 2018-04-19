@@ -1,0 +1,650 @@
+2018-04-14 15:10:36 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:36 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=)
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:37 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264>
+None
+2018-04-14 15:10:38 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-975789039952580609-985083001607307264)
+2018-04-14 15:10:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:38 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-964504237534261248-985083001607307264)
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264>
+None
+2018-04-14 15:10:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-956644446992519169-985083001607307264)
+2018-04-14 15:10:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-951721975294066688-985083001607307264)
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264>
+None
+2018-04-14 15:10:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-946637154029010944-985083001607307264)
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264>
+None
+2018-04-14 15:10:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-940461466615939072-985083001607307264)
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264>
+None
+2018-04-14 15:10:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-938959284846628864-985083001607307264)
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264>
+None
+2018-04-14 15:10:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-936690981013016577-985083001607307264)
+2018-04-14 15:10:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264>
+None
+2018-04-14 15:10:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-933070919010062337-985083001607307264)
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:52 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:53 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264>
+None
+2018-04-14 15:10:53 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-925477171048669186-985083001607307264)
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:54 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264>
+None
+2018-04-14 15:10:55 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-918027384795860992-985083001607307264)
+2018-04-14 15:10:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:55 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:56 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264>
+None
+2018-04-14 15:10:57 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-913050928697163776-985083001607307264)
+2018-04-14 15:10:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:57 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:58 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-905969407234633728-985083001607307264)
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:10:59 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-900115419037564928-985083001607307264)
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264>
+None
+2018-04-14 15:11:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-896519400874020864-985083001607307264)
+2018-04-14 15:11:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-890233808447995905-985083001607307264)
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:11:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Moondust%20Eyeshadow%22&src=typed&max_position=TWEET-884149801700470786-985083001607307264>
+None
+2018-04-14 15:11:05 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 15597,
+ 'downloader/request_count': 18,
+ 'downloader/request_method_count/GET': 18,
+ 'downloader/response_bytes': 251720,
+ 'downloader/response_count': 18,
+ 'downloader/response_status_count/200': 18,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 11, 5, 454593),
+ 'item_scraped_count': 304,
+ 'log_count/DEBUG': 626,
+ 'log_count/ERROR': 304,
+ 'log_count/INFO': 6,
+ 'memusage/max': 58503168,
+ 'memusage/startup': 58503168,
+ 'request_depth_max': 18,
+ 'response_received_count': 18,
+ 'scheduler/dequeued': 18,
+ 'scheduler/dequeued/memory': 18,
+ 'scheduler/enqueued': 19,
+ 'scheduler/enqueued/memory': 19,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 10, 35, 467085)}
+2018-04-14 15:11:05 [scrapy] INFO: Spider closed (closespider_itemcount)

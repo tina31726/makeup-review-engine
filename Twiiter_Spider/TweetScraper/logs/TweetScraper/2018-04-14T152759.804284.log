@@ -1,0 +1,670 @@
+2018-04-14 15:28:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:28:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=>
+None
+2018-04-14 15:28:01 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=)
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-975995964459712513-985180502805139456)
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456>
+None
+2018-04-14 15:28:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968459734285242369-985180502805139456)
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-968129220747472896-985180502805139456)
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456>
+None
+2018-04-14 15:28:07 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-967426802032500737-985180502805139456)
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-958219056288534528-985180502805139456)
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456>
+None
+2018-04-14 15:28:10 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-947990287435038720-985180502805139456)
+2018-04-14 15:28:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456>
+None
+2018-04-14 15:28:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-944174872472715264-985180502805139456)
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456>
+None
+2018-04-14 15:28:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-932884241859338240-985180502805139456)
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-924671878622470144-985180502805139456)
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:14 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:15 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456>
+None
+2018-04-14 15:28:15 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-917070925237030914-985180502805139456)
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:16 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-915801619975073792-985180502805139456)
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:17 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-909032780918661125-985180502805139456)
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:18 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456>
+None
+2018-04-14 15:28:19 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-902374954485862401-985180502805139456)
+2018-04-14 15:28:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:19 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:20 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-896527991852990468-985180502805139456)
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:21 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456>
+None
+2018-04-14 15:28:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-892440530264764416-985180502805139456)
+2018-04-14 15:28:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-888163169746563072-985180502805139456)
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-882942562755063809-985180502805139456)
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:25 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-875329497536630784-985180502805139456)
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:26 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-867645448332464130-985180502805139456)
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:27 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-860801679469490176-985180502805139456)
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:28 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:29 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456>
+None
+2018-04-14 15:28:29 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-853587967046189056-985180502805139456)
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456>
+None
+2018-04-14 15:28:30 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-846617934063702016-985180502805139456)
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] INFO: Closing spider (closespider_itemcount)
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Lid%20Pop%22&src=typed&max_position=TWEET-841295315005296640-985180502805139456>
+None
+2018-04-14 15:28:31 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 20504,
+ 'downloader/request_count': 24,
+ 'downloader/request_method_count/GET': 24,
+ 'downloader/response_bytes': 273324,
+ 'downloader/response_count': 24,
+ 'downloader/response_status_count/200': 24,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 28, 31, 958991),
+ 'item_scraped_count': 311,
+ 'log_count/DEBUG': 646,
+ 'log_count/ERROR': 311,
+ 'log_count/INFO': 6,
+ 'memusage/max': 66822144,
+ 'memusage/startup': 66822144,
+ 'request_depth_max': 24,
+ 'response_received_count': 24,
+ 'scheduler/dequeued': 24,
+ 'scheduler/dequeued/memory': 24,
+ 'scheduler/enqueued': 25,
+ 'scheduler/enqueued/memory': 25,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 28, 0, 24808)}
+2018-04-14 15:28:31 [scrapy] INFO: Spider closed (closespider_itemcount)

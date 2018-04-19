@@ -1,0 +1,249 @@
+2018-04-14 14:51:39 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=> (referer: None)
+2018-04-14 14:51:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:39 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:40 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=)
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952>
+None
+2018-04-14 14:51:42 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-941809635434037249-981226913002749952)
+2018-04-14 14:51:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952>
+None
+2018-04-14 14:51:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-887737797137846272-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-914502431144386560-981226913002749952)
+2018-04-14 14:51:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-887737797137846272-981226913002749952>
+None
+2018-04-14 14:51:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-887737797137846272-981226913002749952>
+None
+2018-04-14 14:51:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-887737797137846272-981226913002749952>
+None
+2018-04-14 14:51:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-887737797137846272-981226913002749952>
+None
+2018-04-14 14:51:44 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-887737797137846272-981226913002749952)
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952>
+None
+2018-04-14 14:51:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-880595714648276992-981226913002749952)
+2018-04-14 14:51:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:47 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952>
+None
+2018-04-14 14:51:48 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-853460641549385728-981226913002749952)
+2018-04-14 14:51:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:48 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:49 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-824355848902365187-981226913002749952)
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:50 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952>
+None
+2018-04-14 14:51:51 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-692848203159326721-981226913002749952> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-757671324244291584-981226913002749952)
+2018-04-14 14:51:51 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=MILK%20MAKEUP%20Eye%20Vinyl&src=typed&max_position=TWEET-692848203159326721-981226913002749952> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:51:51 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:51:51 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7478,
+ 'downloader/request_count': 9,
+ 'downloader/request_method_count/GET': 9,
+ 'downloader/response_bytes': 97725,
+ 'downloader/response_count': 9,
+ 'downloader/response_status_count/200': 9,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 51, 51, 969396),
+ 'item_scraped_count': 107,
+ 'log_count/DEBUG': 224,
+ 'log_count/ERROR': 107,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 9,
+ 'response_received_count': 9,
+ 'scheduler/dequeued': 9,
+ 'scheduler/dequeued/memory': 9,
+ 'scheduler/enqueued': 9,
+ 'scheduler/enqueued/memory': 9,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 51, 38, 651438)}
+2018-04-14 14:51:51 [scrapy] INFO: Spider closed (finished)

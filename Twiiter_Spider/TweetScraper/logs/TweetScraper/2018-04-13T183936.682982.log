@@ -1,0 +1,17 @@
+2018-04-13 18:39:37 [scrapy] ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "/Users/YiChen/anaconda3/lib/python3.6/site-packages/scrapy/core/engine.py", line 127, in _next_request
+    request = next(slot.start_requests)
+  File "/Users/YiChen/Documents/CS579_Project/Twiiter_Spider/TweetScraper/spiders/TweetCrawler.py", line 44, in start_requests
+    url = self.url % (quote(query), '')
+NameError: name 'query' is not defined
+2018-04-13 18:39:37 [scrapy] INFO: Closing spider (finished)
+2018-04-13 18:39:37 [scrapy] INFO: Dumping Scrapy stats:
+{'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 13, 23, 39, 37, 900788),
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 6,
+ 'memusage/max': 49537024,
+ 'memusage/startup': 49537024,
+ 'start_time': datetime.datetime(2018, 4, 13, 23, 39, 37, 888050)}
+2018-04-13 18:39:37 [scrapy] INFO: Spider closed (finished)

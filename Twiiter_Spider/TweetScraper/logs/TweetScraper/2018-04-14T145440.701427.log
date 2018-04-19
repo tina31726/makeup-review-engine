@@ -1,0 +1,124 @@
+2018-04-14 14:54:41 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=> (referer: None)
+2018-04-14 14:54:41 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:42 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=>
+None
+2018-04-14 14:54:43 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=)
+2018-04-14 14:54:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:43 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:44 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865>
+None
+2018-04-14 14:54:45 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-892092920878297090-981634897218596865)
+2018-04-14 14:54:45 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865>
+None
+2018-04-14 14:54:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865>
+None
+2018-04-14 14:54:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865>
+None
+2018-04-14 14:54:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865>
+None
+2018-04-14 14:54:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865>
+None
+2018-04-14 14:54:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865>
+None
+2018-04-14 14:54:46 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865>
+None
+2018-04-14 14:54:46 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-780029102904356864-981634897218596865> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-836219268823977984-981634897218596865)
+2018-04-14 14:54:46 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=KEVYN%20AUCOIN%20The%20Exotique%20Diamond%20Eye%20Gloss&src=typed&max_position=TWEET-780029102904356864-981634897218596865> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:54:46 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:54:46 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3144,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 36161,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 54, 46, 742460),
+ 'item_scraped_count': 47,
+ 'log_count/DEBUG': 99,
+ 'log_count/ERROR': 47,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 4,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 54, 40, 948008)}
+2018-04-14 14:54:46 [scrapy] INFO: Spider closed (finished)

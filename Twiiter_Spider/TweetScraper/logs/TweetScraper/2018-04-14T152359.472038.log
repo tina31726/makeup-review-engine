@@ -1,0 +1,345 @@
+2018-04-14 15:24:00 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=> (referer: None)
+2018-04-14 15:24:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:00 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:01 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=>
+None
+2018-04-14 15:24:02 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=)
+2018-04-14 15:24:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:02 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:03 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-235042957642833920-692426017265324032)
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:04 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:05 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-180349478467940352-692426017265324032)
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:06 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:07 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-146856401451487232-692426017265324032)
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:08 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-102386697303621632-692426017265324032)
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:09 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:10 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-88650295562878976-692426017265324032)
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:11 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032>
+None
+2018-04-14 15:24:12 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-74407306493820928-692426017265324032)
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032>
+None
+2018-04-14 15:24:13 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-42333737995874304-692426017265324032> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-62542973962960896-692426017265324032)
+2018-04-14 15:24:14 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=%22Baked%20Eye%20Colour%20-%20Wet/Dry%22&src=typed&max_position=TWEET-42333737995874304-692426017265324032> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 15:24:14 [scrapy] INFO: Closing spider (finished)
+2018-04-14 15:24:14 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7692,
+ 'downloader/request_count': 9,
+ 'downloader/request_method_count/GET': 9,
+ 'downloader/response_bytes': 81859,
+ 'downloader/response_count': 9,
+ 'downloader/response_status_count/200': 9,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 20, 24, 14, 83386),
+ 'item_scraped_count': 155,
+ 'log_count/DEBUG': 320,
+ 'log_count/ERROR': 155,
+ 'log_count/INFO': 6,
+ 'memusage/max': 66822144,
+ 'memusage/startup': 66822144,
+ 'request_depth_max': 9,
+ 'response_received_count': 9,
+ 'scheduler/dequeued': 9,
+ 'scheduler/dequeued/memory': 9,
+ 'scheduler/enqueued': 9,
+ 'scheduler/enqueued/memory': 9,
+ 'start_time': datetime.datetime(2018, 4, 14, 20, 23, 59, 762121)}
+2018-04-14 15:24:14 [scrapy] INFO: Spider closed (finished)

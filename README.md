@@ -6,13 +6,18 @@ It will return the popular prodcuts candidate. Also return the tweets talked abo
 
 
 ## Data Collection
-### Scrape twiiter by key word
-Simulate mouse scorlling to crack the API restirction. Which only allowed to get latest 7days data
-### Makeup product list
-Create items list, there's 
+### Sephora
+We use sephora dictionary and sephora_review dictionary to get all product and reviews, that sephora is used Scrapy, sephora_review is used bazaarvoice_api.
+### Twitter
+We use Twitter_Spider dictionary as scrapy framework to collect twitter data, this is real-time scrapy, please enter scrapyrt not scrapy
+### Amazon
+We use Amazon-review dictionary to collect all eyeshadow product name and reviews. Inside the dictionary, there is Amazon_Test, which used AmazonAPI to collect top 100 eyeshadow product name, the other dictionary, amazon-reviews-scraper-master, which used beautiful soap to collect all reviews in each product.
 
-FDA-Bad catogory
-https://www.fda.gov/Food/ComplianceEnforcement/ucm494015.htm
+## Data Collection
+Flask dictionary is used to implement data deployment, enter python app.py to activate flask web application. There are two features you can use. One is Twitter tab, which can enter interesting product name first and get review time series and Twitter predicted rating. The other one is checking hottest product which got more and more reviews recently.
+Notice:Categories you can check are only in .pickle in dictionary
+
+
 
 ???-Good catogory
 

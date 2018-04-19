@@ -1,0 +1,81 @@
+2018-04-14 14:45:22 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=> (referer: None)
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:22 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=)
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088>
+None
+2018-04-14 14:45:23 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088>
+None
+2018-04-14 14:45:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088>
+None
+2018-04-14 14:45:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088>
+None
+2018-04-14 14:45:24 [scrapy] DEBUG: Scraped from <200 https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088>
+None
+2018-04-14 14:45:24 [scrapy] DEBUG: Crawled (200) <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-685581015700512769-881236428650201088> (referer: https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-788796508472684544-881236428650201088)
+2018-04-14 14:45:24 [scrapy] DEBUG: Filtered duplicate request: <GET https://twitter.com/i/search/timeline?l=en&f=tweets&q=surratt%20beauty%20Artistique%20Eyeshadow&src=typed&max_position=TWEET-685581015700512769-881236428650201088> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-04-14 14:45:24 [scrapy] INFO: Closing spider (finished)
+2018-04-14 14:45:24 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2112,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 21734,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 4, 14, 19, 45, 24, 628391),
+ 'item_scraped_count': 26,
+ 'log_count/DEBUG': 56,
+ 'log_count/ERROR': 26,
+ 'log_count/INFO': 6,
+ 'memusage/max': 63221760,
+ 'memusage/startup': 63221760,
+ 'request_depth_max': 3,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2018, 4, 14, 19, 45, 21, 395888)}
+2018-04-14 14:45:24 [scrapy] INFO: Spider closed (finished)
